@@ -1,0 +1,311 @@
+[
+    {
+        "name": "1-5",
+        "children":
+        [
+            {
+                "name": "Star 3 (Block)",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "1-5",
+                        "x": "345",
+                        "y": "111"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Star 2 (Block)",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "1-5",
+                        "x": "808",
+                        "y": "110"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 4,5,6,7 (Block)",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "1-5",
+                        "x": "1073",
+                        "y": "127"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 4",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 5",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 6",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 7",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 8,1 (Block)",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "1-5",
+                        "x": "1325",
+                        "y": "111"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 8",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Star 9 (Block)",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "1-5",
+                        "x": "184",
+                        "y": "262"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 9",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Star 10 (Block)",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "1-5",
+                        "x": "455",
+                        "y": "262"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 10",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Star 13",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "1-5",
+                        "x": "375",
+                        "y": "560"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 13",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Star 11",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "1-5",
+                        "x": "1216",
+                        "y": "480"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 11",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Star 12",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "1-5",
+                        "x": "1406",
+                        "y": "480"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 12",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 14,15,16",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "1-5",
+                        "x": "1712",
+                        "y": "458"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 14",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 15",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 16",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 17-29",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "1-5",
+                        "x": "98",
+                        "y": "637"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 17",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 18",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 19",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 20",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 21",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 22",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 23",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 24",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 25",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 26",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 27",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 28",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 29",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

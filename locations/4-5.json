@@ -1,0 +1,118 @@
+[
+    {
+        "name": "4-5",
+        "children":
+        [
+            {
+                "name": "Star 2",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "4-5",
+                        "x": "383",
+                        "y": "145"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Star 1",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "4-5",
+                        "x": "2192",
+                        "y": "145"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 3,4,5",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "4-5",
+                        "x": "480",
+                        "y": "530"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 3",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 4",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 5",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Maxim Tomato (pillars)",
+                "map_locations":
+                [
+                    {
+                        "map": "4-5",
+                        "x": "480",
+                        "y": "896"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Maxim Tomato (pillars)",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Star 6",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "4-5",
+                        "x": "849",
+                        "y": "644"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 6",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "5-6",
+        "children":
+        [
+            {
+                "name": "Star 1 (right)",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "5-6",
+                        "x": "1704",
+                        "y": "111"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "1-Up (middle)",
+                "map_locations":
+                [
+                    {
+                        "map": "5-6",
+                        "x": "1592",
+                        "y": "111"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "1-Up (middle)",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tomato (left)",
+                "map_locations":
+                [
+                    {
+                        "map": "5-6",
+                        "x": "1480",
+                        "y": "111"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Tomato (left)",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

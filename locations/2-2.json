@@ -1,0 +1,161 @@
+[
+    {
+        "name": "2-2",
+        "children":
+        [
+            {
+                "name": "Stars 2,3",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "2-2",
+                        "x": "496",
+                        "y": "102"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 2",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Star 1",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "2-2",
+                        "x": "1256",
+                        "y": "79"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Star 4",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "2-2",
+                        "x": "1529",
+                        "y": "224"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 4",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 9-17 (current (17?), 1-shot)",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "2-2",
+                        "x": "1622",
+                        "y": "634"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 9",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 10",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 11",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 12",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 13",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 14",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 15",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 16",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 17",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 5,6,7,8",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "2-2",
+                        "x": "936",
+                        "y": "928"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 5",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 6",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 7",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 8",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

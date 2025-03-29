@@ -1,0 +1,343 @@
+[
+    {
+        "name": "2-4",
+        "children":
+        [
+            {
+                "name": "Stars 1,2,3,4,5",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "2-4",
+                        "x": "488",
+                        "y": "224"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 1",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 2",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 3",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 4",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 5",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 6,7",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "2-4",
+                        "x": "1384",
+                        "y": "224"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 6",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 7",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 44-51 (dark room)",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "2-4",
+                        "x": "1425",
+                        "y": "457"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 44",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 45",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 46",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 47",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 48",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 49",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 50",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 51",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 26,27,28 (Block)",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "2-4",
+                        "x": "552",
+                        "y": "1760"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 26",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 27",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 28",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 22,23,24,25",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "2-4",
+                        "x": "472",
+                        "y": "1227"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 22",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 23",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 24",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 25",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 8-24",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "2-4",
+                        "x": "809",
+                        "y": "1155"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 8",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 9",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 10",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 11",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 12",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 13",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 14",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 15",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 16",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 17",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 18",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 19",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 20",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 21",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 22",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 23",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 24",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stars 29-43 (column)",
+                "visibility_rules": ["Starsanity"],
+                "chest_unopened_img": "images/StarSmall.png",
+                "chest_opened_img": "images/StarSmallDim.png",
+                "map_locations":
+                [
+                    {
+                        "map": "2-4",
+                        "x": "1200",
+                        "y": "999"
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "name": "Star 29",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 30",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 31",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 32",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 33",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 34",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 35",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 36",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 37",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 38",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 39",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 40",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 41",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 42",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Star 43",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]
