@@ -13,6 +13,8 @@
                         "type": "itemgrid",
                         "item_margin": "10, 10",
                         "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
                         "rows": [
                             [
                                 "Burning",
@@ -41,6 +43,7 @@
                                 "",
                                 "",
                                 "Consumables",
+                                "Starsanity",
                                 "FastGoal",
                                 "Goal"
                             ]

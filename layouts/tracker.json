@@ -1,4 +1,4 @@
-﻿{
+{
     "tracker_default": {
         "type": "container",
         "background": "#CEFFCE",
@@ -25,7 +25,7 @@
                 },
                 {
                     "type": "layout",
-                    "key": "worlds"
+                    "key": "tabbedlayout"
                 }
             ]
         }
