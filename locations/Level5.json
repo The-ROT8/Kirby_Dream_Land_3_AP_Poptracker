@@ -1,6 +1,7 @@
 [
     {
         "name": "Level 5",
+        "overlay_background": "#66000000",
         "children": [
             {
                 "name": "5-1",
@@ -18,6 +19,14 @@
                         "access_rules": [
                             "Burning"
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 6
                     }
                 ],
                 "map_locations": [
@@ -44,6 +53,14 @@
                         "access_rules": [
                             "Ice"
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 19
                     }
                 ],
                 "map_locations": [
@@ -70,12 +87,22 @@
                     },
                     {
                         "name": "Iceberg 3 - Maxim Tomato (Ceiling)",
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
                         "item_count": 1,
                         "visibility_rules":[
                             "Consumables"
                         ],
                         "access_rules": [
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 21
                     }
                 ],
                 "map_locations": [
@@ -105,6 +132,14 @@
                         "access_rules": [
                             "Coo,ChuChu,Burning"
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 3
                     }
                 ],
                 "map_locations": [
@@ -136,8 +171,9 @@
                     },
                     {
                         "name": "Iceberg 5 - 1-Up (Boulder)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ],
@@ -146,8 +182,9 @@
                     },
                     {
                         "name": "Iceberg 5 - 1-Up (Floor)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ],
@@ -156,13 +193,22 @@
                     },
                     {
                         "name": "Iceberg 5 - 1-Up (Peloo)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ],
                         "access_rules":[
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 34
                     }
                 ],
                 "map_locations": [
@@ -192,8 +238,9 @@
                     },
                     {
                         "name": "Iceberg 6 - 1-Up (Middle)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ],
@@ -202,13 +249,22 @@
                     },
                     {
                         "name": "Iceberg 6 - Maxim Tomato (Left)",
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/MaximTomato.png",
                         "visibility_rules":[
                             "Consumables"
                         ],
                         "access_rules":[
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [

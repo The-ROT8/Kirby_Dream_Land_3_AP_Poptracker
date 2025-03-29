@@ -1,6 +1,7 @@
 [
     {
         "name": "Level 4",
+        "overlay_background": "#66000000",
         "children": [
             {
                 "name": "4-1",
@@ -16,13 +17,14 @@
                         "name": "Cloudy Park 1 - Hibanamodoki",
                         "item_count": 1,
                         "access_rules": [
-                            "Coo,Clean"
+                            "Coo,Clean", "Rick,Clean"
                         ]
                     },
                     {
                         "name": "Cloudy Park 1 - 1-Up (Shotzo)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ],
@@ -31,13 +33,22 @@
                     },
                     {
                         "name": "Cloudy Park 1 - Maxim Tomato (Mariel)",
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/MaximTomato.png",
                         "visibility_rules":[
                             "Consumables"
                         ],
                         "access_rules": [
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 23
                     }
                 ],
                 "map_locations": [
@@ -64,6 +75,14 @@
                         "access_rules": [
                             "Needle"
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 54
                     }
                 ],
                 "map_locations": [
@@ -87,6 +106,14 @@
                     {
                         "name": "Cloudy Park 3 - Mr. Ball",
                         "item_count": 1
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 22
                     }
                 ],
                 "map_locations": [
@@ -116,8 +143,9 @@
                     },
                     {
                         "name": "Cloudy Park 4 - 1-Up (Windy)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ],
@@ -126,12 +154,22 @@
                     },
                     {
                         "name": "Cloudy Park 4 - Maxim Tomato (Windy)",
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
                         "item_count": 1,
                         "visibility_rules":[
                             "Consumables"
                         ],
                         "access_rules":[
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 50
                     }
                 ],
                 "map_locations": [
@@ -163,12 +201,22 @@
                     },
                     {
                         "name": "Cloudy Park 5 - Maxim Tomato (Pillars)",
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
                         "item_count": 1,
                         "visibility_rules":[
                             "Consumables"
                         ],
                         "access_rules":[
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 6
                     }
                 ],
                 "map_locations": [
@@ -195,14 +243,23 @@
                     },
                     {
                         "name": "Cloudy Park 6 - 1-Up (Cutter)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ],
                         "access_rules":[
                             "Cutter"
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 33
                     }
                 ],
                 "map_locations": [

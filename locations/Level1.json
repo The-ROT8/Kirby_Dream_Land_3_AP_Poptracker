@@ -1,6 +1,7 @@
 [
     {
         "name": "Level 1",
+        "overlay_background": "#66000000",
         "children": [
             {
                 "name": "1-1",
@@ -18,8 +19,9 @@
                     },
                     {
                         "name": "Grass Land 1 - 1-Up (Parasol)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ],
@@ -29,6 +31,8 @@
                     },
                     {
                         "name": "Grass Land 1 - Maxim Tomato (Spark)",
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
                         "item_count": 1,
                         "visibility_rules":[
                             "Consumables"
@@ -36,6 +40,14 @@
                         "access_rules": [
                             "Spark"
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 23
                     }
                 ],
                 "map_locations": [
@@ -45,7 +57,7 @@
                         "y": 149
                     }
                 ]
-            },            
+            },
             {
                 "name": "1-2",
                 "access_rules": [
@@ -65,14 +77,23 @@
                     },
                     {
                         "name": "Grass Land 2 - 1-Up (Needle)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ],
                         "access_rules": [
                             "Needle"
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 21
                     }
                 ],
                 "map_locations": [
@@ -99,8 +120,9 @@
                     },
                     {
                         "name": "Grass Land 3 - 1-Up (Climb)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ],
@@ -109,12 +131,22 @@
                     },
                     {
                         "name": "Grass Land 3 - Maxim Tomato (Climb)",
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
                         "item_count": 1,
                         "visibility_rules":[
                             "Consumables"
                         ],
                         "access_rules": [
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 31
                     }
                 ],
                 "map_locations": [
@@ -144,22 +176,26 @@
                     },
                     {
                         "name": "Grass Land 4 - Maxim Tomato (Zebon Right)",
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ]
                     },
                     {
                         "name": "Grass Land 4 - 1-Up (Gordo)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ]
                     },
                     {
                         "name": "Grass Land 4 - Maxim Tomato (Gordo)",
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
                         "item_count": 1,
                         "visibility_rules":[
                             "Consumables"
@@ -167,10 +203,20 @@
                     },
                     {
                         "name": "Grass Land 4 - Maxim Tomato (Cliff)",
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
                         "item_count": 1,
                         "visibility_rules":[
                             "Consumables"
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 37
                     }
                 ],
                 "map_locations": [
@@ -197,6 +243,14 @@
                         "access_rules": [
                             "Kine"
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 29
                     }
                 ],
                 "map_locations": [
@@ -223,19 +277,29 @@
                     },
                     {
                         "name": "Grass Land 6 - 1-Up (Tower)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ]
                     },
                     {
                         "name": "Grass Land 6 - 1-Up (Falling)",
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1UpDim.png",
                         "item_count": 1,
-                        "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
                             "Consumables"
                         ]
+                    },
+                    {
+                        "name": "Stars",
+                        "chest_unopened_img": "images/StarLarge.png",
+                        "chest_opened_img": "images/StarLargeDim.png",
+                        "clear_as_group": false,
+                        "visibility_rules": ["Starsanity"],
+                        "item_count": 29
                     }
                 ],
                 "map_locations": [
