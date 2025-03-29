@@ -1,9 +1,9 @@
 {
     "name": "Kirby's Dream Land 3 Archipelago Randomizer",
     "game_name": "Kirby's Dream Land 3",
-    "author": "Silvris",
+    "author": "Silvris (core), ROT8 (Starsanity level maps)",
     "package_uid": "KDL3_Silvris_AP",
-    "package_version": "0.1.0",
+    "package_version": "0.1.1",
     "platform": "snes",
     "variants": {
         "ap_map_tracker": {
