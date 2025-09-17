@@ -97,7 +97,7 @@
         "disabled_img": "images/items/HeartStar.png",
         "codes": "heartstar",
         "min_quantity": 0,
-        "max_quantity": 50,
+        "max_quantity": 99,
         "increment": 1,
         "decrement": 1
     },
