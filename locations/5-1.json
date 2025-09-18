@@ -5,9 +5,9 @@
         [
             {
                 "name": "Star 6",
-                "visibility_rules": ["Starsanity"],
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
+                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -20,15 +20,14 @@
                 [
                     {
                         "name": "Star 6",
-                        "item_count": 1
                     }
                 ]
             },
             {
                 "name": "Star 5",
-                "visibility_rules": ["Starsanity"],
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
+                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -41,15 +40,14 @@
                 [
                     {
                         "name": "Star 5",
-                        "item_count": 1
                     }
                 ]
             },
             {
                 "name": "Star 4",
-                "visibility_rules": ["Starsanity"],
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
+                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -62,15 +60,14 @@
                 [
                     {
                         "name": "Star 4",
-                        "item_count": 1
                     }
                 ]
             },
             {
                 "name": "Star 3",
-                "visibility_rules": ["Starsanity"],
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
+                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -83,15 +80,14 @@
                 [
                     {
                         "name": "Star 3",
-                        "item_count": 1
                     }
                 ]
             },
             {
                 "name": "Star 2",
-                "visibility_rules": ["Starsanity"],
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
+                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -104,15 +100,14 @@
                 [
                     {
                         "name": "Star 2",
-                        "item_count": 1
                     }
                 ]
             },
             {
                 "name": "Star 1",
-                "visibility_rules": ["Starsanity"],
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
+                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -125,7 +120,6 @@
                 [
                     {
                         "name": "Star 1",
-                        "item_count": 1
                     }
                 ]
             }

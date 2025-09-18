@@ -5,9 +5,9 @@
         [
             {
                 "name": "Star 1 (right)",
-                "visibility_rules": ["Starsanity"],
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
+                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -20,12 +20,11 @@
                 [
                     {
                         "name": "Star 1",
-                        "item_count": 1
                     }
                 ]
             },
             {
-                "name": "1-Up (middle)",
+                "name": "1-Up (Middle)",
                 "map_locations":
                 [
                     {
@@ -37,13 +36,13 @@
                 "sections":
                 [
                     {
-                        "name": "1-Up (middle)",
-                        "item_count": 1
+                        "name": "1-Up (Middle)",
+                        "ref": "Level 5/5-6/Iceberg 6 - 1-Up (Middle)"
                     }
                 ]
             },
             {
-                "name": "Tomato (left)",
+                "name": "Maxim Tomato (Left)",
                 "map_locations":
                 [
                     {
@@ -55,8 +54,8 @@
                 "sections":
                 [
                     {
-                        "name": "Tomato (left)",
-                        "item_count": 1
+                        "name": "Maxim Tomato (Left)",
+                        "ref": "Level 5/5-6/Iceberg 6 - Maxim Tomato (Left)"
                     }
                 ]
             }

@@ -249,7 +249,8 @@
                             "Consumables"
                         ],
                         "access_rules":[
-                            "Rick,Ice"
+                            "Ice,Rick","Ice,Coo","Ice,Nago","Ice,ChuChu","Ice,Pitch",
+                            "[Rick],[Coo],[Nago],[ChuChu],[Pitch],Ice,Kine"
                         ]
                     },
                     {
@@ -261,7 +262,8 @@
                             "Consumables"
                         ],
                         "access_rules":[
-                            "Rick,Ice"
+                            "Ice,Rick","Ice,Coo","Ice,Nago","Ice,ChuChu","Ice,Pitch",
+                            "[Rick],[Coo],[Nago],[ChuChu],[Pitch],Ice,Kine"
                         ]
                     },
                     {
@@ -273,7 +275,8 @@
                             "Consumables"
                         ],
                         "access_rules":[
-                            "Rick,Ice"
+                            "Ice,Rick","Ice,Coo","Ice,Nago","Ice,ChuChu","Ice,Pitch",
+                            "[Rick],[Coo],[Nago],[ChuChu],[Pitch],Ice,Kine"
                         ]
                     },
                     {

@@ -51,7 +51,7 @@
                         "name": "Ripple Field 2 - Bakasa",
                         "item_count": 1,
                         "access_rules": [
-                            "Kine,Parasol"
+                            "Kine,Parasol","[Kine],Coo,Parasol"
                         ]
                     },
                     {
@@ -112,7 +112,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Ripple Field 3 - 1-Up (Cutter/Spark)",
+                        "name": "Ripple Field 3 - 1-Up (Cutter | Spark)",
                         "chest_unopened_img": "images/1Up.png",
                         "chest_opened_img": "images/1UpDim.png",
                         "chest_unopened_img": "images/1Up.png",
@@ -172,7 +172,7 @@
                         ]
                     },
                     {
-                        "name": "Ripple Field 4 - Maxim Tomato (Dark)",
+                        "name": "Ripple Field 4 - Maxim Tomato (Dark Room)",
                         "chest_unopened_img": "images/MaximTomato.png",
                         "chest_opened_img": "images/MaximTomatoDim.png",
                         "item_count": 1,
