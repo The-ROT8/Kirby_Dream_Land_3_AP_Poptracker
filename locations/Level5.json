@@ -26,8 +26,33 @@
                         "chest_opened_img": "images/StarLargeDim.png",
                         "clear_as_group": false,
                         "visibility_rules": ["Starsanity"],
+                        "access_rules": [],
                         "item_count": 6
-                    }
+                    },
+                    {
+                        "name": "Star 6",
+                        "ref": "5-1/Star 6/Star 6",
+                    },
+                    {
+                        "name": "Star 5",
+                        "ref": "5-1/Star 5/Star 5",
+                    },
+                    {
+                        "name": "Star 4",
+                        "ref": "5-1/Star 4/Star 4",
+                    },
+                    {
+                        "name": "Star 3",
+                        "ref": "5-1/Star 3/Star 3",
+                    },
+                    {
+                        "name": "Star 2",
+                        "ref": "5-1/Star 2/Star 2",
+                    },
+                    {
+                        "name": "Star 1",
+                        "ref": "5-1/Star 1/Star 1",
+                    },
                 ],
                 "map_locations": [
                     {
@@ -60,8 +85,85 @@
                         "chest_opened_img": "images/StarLargeDim.png",
                         "clear_as_group": false,
                         "visibility_rules": ["Starsanity"],
+                        "access_rules": [],
                         "item_count": 19
-                    }
+                    },
+                    {
+                        "name": "Star 3",
+                        "ref": "5-2/Star 3/Star 3",
+                    },
+                    {
+                        "name": "Star 1",
+                        "ref": "5-2/Star 1/Star 1",
+                    },
+                    {
+                        "name": "Star 2",
+                        "ref": "5-2/Star 2/Star 2",
+                    },
+                    {
+                        "name": "Star 4",
+                        "ref": "5-2/Star 4/Star 4",
+                    },
+                    {
+                        "name": "Star 5",
+                        "ref": "5-2/Star 5/Star 5",
+                    },
+                    {
+                        "name": "Star 7",
+                        "ref": "5-2/Star 7/Star 7",
+                    },
+                    {
+                        "name": "Star 6",
+                        "ref": "5-2/Star 6/Star 6",
+                    },
+                    {
+                        "name": "Star 8",
+                        "ref": "5-2/Star 8/Star 8",
+                    },
+                    {
+                        "name": "Star 12",
+                        "ref": "5-2/Star 12/Star 12",
+                    },
+                    {
+                        "name": "Star 13",
+                        "ref": "5-2/Star 13/Star 13",
+                    },
+                    {
+                        "name": "Star 15 (Block)",
+                        "ref": "5-2/Star 15 (Block)/Star 15",
+                    },
+                    {
+                        "name": "Star 14 (Block)",
+                        "ref": "5-2/Star 14 (Block)/Star 14",
+                    },
+                    {
+                        "name": "Star 16 (Block)",
+                        "ref": "5-2/Star 16 (Block)/Star 16",
+                    },
+                    {
+                        "name": "Star 11",
+                        "ref": "5-2/Star 11/Star 11",
+                    },
+                    {
+                        "name": "Star 10",
+                        "ref": "5-2/Star 10/Star 10",
+                    },
+                    {
+                        "name": "Star 9",
+                        "ref": "5-2/Star 9/Star 9",
+                    },
+                    {
+                        "name": "Star 19 (Block)",
+                        "ref": "5-2/Star 19 (Block)/Star 19",
+                    },
+                    {
+                        "name": "Star 17 (Block)",
+                        "ref": "5-2/Star 17 (Block)/Star 17",
+                    },
+                    {
+                        "name": "Star 18 (Block)",
+                        "ref": "5-2/Star 18 (Block)/Star 18",
+                    },
                 ],
                 "map_locations": [
                     {
@@ -102,8 +204,93 @@
                         "chest_opened_img": "images/StarLargeDim.png",
                         "clear_as_group": false,
                         "visibility_rules": ["Starsanity"],
+                        "access_rules": [],
                         "item_count": 21
-                    }
+                    },
+                    {
+                        "name": "Star 1",
+                        "ref": "5-3/Star 1/Star 1",
+                    },
+                    {
+                        "name": "Star 2",
+                        "ref": "5-3/Star 2/Star 2",
+                    },
+                    {
+                        "name": "Star 3",
+                        "ref": "5-3/Star 3/Star 3",
+                    },
+                    {
+                        "name": "Star 7",
+                        "ref": "5-3/Star 7/Star 7",
+                    },
+                    {
+                        "name": "Star 4",
+                        "ref": "5-3/Star 4/Star 4",
+                    },
+                    {
+                        "name": "Star 8",
+                        "ref": "5-3/Star 8/Star 8",
+                    },
+                    {
+                        "name": "Star 9",
+                        "ref": "5-3/Star 9/Star 9",
+                    },
+                    {
+                        "name": "Star 5",
+                        "ref": "5-3/Star 5/Star 5",
+                    },
+                    {
+                        "name": "Star 10",
+                        "ref": "5-3/Star 10/Star 10",
+                    },
+                    {
+                        "name": "Star 6",
+                        "ref": "5-3/Star 6/Star 6",
+                    },
+                    {
+                        "name": "Star 15",
+                        "ref": "5-3/Star 15/Star 15",
+                    },
+                    {
+                        "name": "Star 16",
+                        "ref": "5-3/Star 16/Star 16",
+                    },
+                    {
+                        "name": "Star 17",
+                        "ref": "5-3/Star 17/Star 17",
+                    },
+                    {
+                        "name": "Star 13",
+                        "ref": "5-3/Star 13/Star 13",
+                    },
+                    {
+                        "name": "Star 14",
+                        "ref": "5-3/Star 14/Star 14",
+                    },
+                    {
+                        "name": "Star 11",
+                        "ref": "5-3/Star 11/Star 11",
+                    },
+                    {
+                        "name": "Star 12",
+                        "ref": "5-3/Star 12/Star 12",
+                    },
+                    {
+                        "name": "Star 18",
+                        "ref": "5-3/Star 18/Star 18",
+                    },
+                    {
+                        "name": "Star 20",
+                        "ref": "5-3/Star 20/Star 20",
+                    },
+                    {
+                        "name": "Star 21",
+                        "ref": "5-3/Star 21/Star 21",
+                    },
+                    {
+                        "name": "Star 19",
+                        "ref": "5-3/Star 19/Star 19",
+                    },
                 ],
                 "map_locations": [
                     {
@@ -139,8 +326,21 @@
                         "chest_opened_img": "images/StarLargeDim.png",
                         "clear_as_group": false,
                         "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Burning"],
                         "item_count": 3
-                    }
+                    },
+                    {
+                        "name": "Star 1",
+                        "ref": "5-4/Star 1/Star 1",
+                    },
+                    {
+                        "name": "Star 2",
+                        "ref": "5-4/Star 2/Star 2",
+                    },
+                    {
+                        "name": "Star 3",
+                        "ref": "5-4/Star 3/Star 3",
+                    },
                 ],
                 "map_locations": [
                     {
@@ -208,8 +408,145 @@
                         "chest_opened_img": "images/StarLargeDim.png",
                         "clear_as_group": false,
                         "visibility_rules": ["Starsanity"],
+                        "access_rules": [],
                         "item_count": 34
-                    }
+                    },
+                    {
+                        "name": "Star 1",
+                        "ref": "5-5/Star 1/Star 1",
+                    },
+                    {
+                        "name": "Star 2",
+                        "ref": "5-5/Star 2/Star 2",
+                    },
+                    {
+                        "name": "Star 3",
+                        "ref": "5-5/Star 3/Star 3",
+                    },
+                    {
+                        "name": "Star 4",
+                        "ref": "5-5/Star 4/Star 4",
+                    },
+                    {
+                        "name": "Star 5",
+                        "ref": "5-5/Star 5/Star 5",
+                    },
+                    {
+                        "name": "Star 6",
+                        "ref": "5-5/Star 6/Star 6",
+                    },
+                    {
+                        "name": "Star 7",
+                        "ref": "5-5/Star 7/Star 7",
+                    },
+                    {
+                        "name": "Star 8",
+                        "ref": "5-5/Star 8/Star 8",
+                    },
+                    {
+                        "name": "Star 9",
+                        "ref": "5-5/Star 9/Star 9",
+                    },
+                    {
+                        "name": "Star 10",
+                        "ref": "5-5/Star 10/Star 10",
+                    },
+                    {
+                        "name": "Star 11",
+                        "ref": "5-5/Star 11/Star 11",
+                    },
+                    {
+                        "name": "Star 12",
+                        "ref": "5-5/Star 12/Star 12",
+                    },
+                    {
+                        "name": "Star 13",
+                        "ref": "5-5/Star 13/Star 13",
+                    },
+                    {
+                        "name": "Star 14",
+                        "ref": "5-5/Star 14/Star 14",
+                    },
+                    {
+                        "name": "Star 15",
+                        "ref": "5-5/Star 15/Star 15",
+                    },
+                    {
+                        "name": "Star 16",
+                        "ref": "5-5/Star 16/Star 16",
+                    },
+                    {
+                        "name": "Star 17",
+                        "ref": "5-5/Star 17/Star 17",
+                    },
+                    {
+                        "name": "Star 18",
+                        "ref": "5-5/Star 18/Star 18",
+                    },
+                    {
+                        "name": "Star 20",
+                        "ref": "5-5/Star 20/Star 20",
+                    },
+                    {
+                        "name": "Star 19",
+                        "ref": "5-5/Star 19/Star 19",
+                    },
+                    {
+                        "name": "Star 24",
+                        "ref": "5-5/Star 24/Star 24",
+                    },
+                    {
+                        "name": "Star 21",
+                        "ref": "5-5/Star 21/Star 21",
+                    },
+                    {
+                        "name": "Star 23",
+                        "ref": "5-5/Star 23/Star 23",
+                    },
+                    {
+                        "name": "Star 22",
+                        "ref": "5-5/Star 22/Star 22",
+                    },
+                    {
+                        "name": "Star 25",
+                        "ref": "5-5/Star 25/Star 25",
+                    },
+                    {
+                        "name": "Star 33",
+                        "ref": "5-5/Star 33/Star 33",
+                    },
+                    {
+                        "name": "Star 34",
+                        "ref": "5-5/Star 34/Star 34",
+                    },
+                    {
+                        "name": "Star 32",
+                        "ref": "5-5/Star 32/Star 32",
+                    },
+                    {
+                        "name": "Star 31",
+                        "ref": "5-5/Star 31/Star 31",
+                    },
+                    {
+                        "name": "Star 29",
+                        "ref": "5-5/Star 29/Star 29",
+                    },
+                    {
+                        "name": "Star 28",
+                        "ref": "5-5/Star 28/Star 28",
+                    },
+                    {
+                        "name": "Star 30",
+                        "ref": "5-5/Star 30/Star 30",
+                    },
+                    {
+                        "name": "Star 27",
+                        "ref": "5-5/Star 27/Star 27",
+                    },
+                    {
+                        "name": "Star 26",
+                        "ref": "5-5/Star 26/Star 26",
+                    },
                 ],
                 "map_locations": [
                     {
@@ -264,8 +601,13 @@
                         "chest_opened_img": "images/StarLargeDim.png",
                         "clear_as_group": false,
                         "visibility_rules": ["Starsanity"],
+                        "access_rules": [],
                         "item_count": 1
-                    }
+                    },
+                    {
+                        "name": "Star 1 (right)",
+                        "ref": "5-6/Star 1 (right)/Star 1",
+                    },
                 ],
                 "map_locations": [
                     {
