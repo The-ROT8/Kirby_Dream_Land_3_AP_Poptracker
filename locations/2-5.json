@@ -549,7 +549,7 @@
                 ]
             },
             {
-                "name": "Stars 46 (Burning, Stone Block)",
+                "name": "Star 46 (Stone Block (Burning))",
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
                 "visibility_rules": ["Starsanity"],
@@ -570,7 +570,7 @@
                 ]
             },
             {
-                "name": "Stars 47 (Burning, Stone Block)",
+                "name": "Star 47 (Stone Block (Burning))",
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
                 "visibility_rules": ["Starsanity"],
@@ -591,7 +591,7 @@
                 ]
             },
             {
-                "name": "Stars 48 (Burning, Stone Block)",
+                "name": "Star 48 (Stone Block (Burning))",
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
                 "visibility_rules": ["Starsanity"],
