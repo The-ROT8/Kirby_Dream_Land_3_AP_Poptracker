@@ -341,7 +341,7 @@
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
                 "visibility_rules": ["Starsanity"],
-                "access_rules": ["Ice","[Ice],Burning"],
+                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -362,7 +362,7 @@
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
                 "visibility_rules": ["Starsanity"],
-                "access_rules": ["Ice","[Ice],Burning"],
+                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -383,7 +383,7 @@
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
                 "visibility_rules": ["Starsanity"],
-                "access_rules": ["Ice","[Ice],Burning"],
+                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -404,7 +404,7 @@
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
                 "visibility_rules": ["Starsanity"],
-                "access_rules": ["Ice","[Ice],Burning"],
+                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -425,7 +425,7 @@
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
                 "visibility_rules": ["Starsanity"],
-                "access_rules": ["Ice","[Ice],Burning"],
+                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -446,7 +446,7 @@
                 "chest_unopened_img": "images/StarSmall.png",
                 "chest_opened_img": "images/StarSmallDim.png",
                 "visibility_rules": ["Starsanity"],
-                "access_rules": ["Ice","[Ice],Burning"],
+                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -594,3 +594,4 @@
         ]
     }
 ]
+
