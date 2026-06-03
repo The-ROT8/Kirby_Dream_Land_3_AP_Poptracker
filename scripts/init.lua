@@ -25,6 +25,7 @@ ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
 
 -- Items
 Tracker:AddItems("items/items.json")
+Tracker:AddItems("items/items_copyrando.json")
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps
@@ -69,6 +70,7 @@ end
 
 -- Layout
 Tracker:AddLayouts("layouts/items.json")
+Tracker:AddLayouts("layouts/copyrando.json")
 Tracker:AddLayouts("layouts/worlds.json")
 Tracker:AddLayouts("layouts/tabbedlayout.json")
 Tracker:AddLayouts("layouts/tracker.json")
