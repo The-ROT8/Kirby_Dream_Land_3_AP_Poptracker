@@ -4,31 +4,31 @@
         "background": "#CEFFCE",
         "content": [
             {
-            "type": "dock",
-            "dropshadow": true,
-            "content": [
-                {
-                    "type": "dock",
-                    "dock": "bottom",
-                    "h_alignment": "stretch",
-                    "content": [
-                        {
-                            "type": "group",
-                            "header": "Items",
-                            "dock": "top",
-                            "content": {
-                                "type": "layout",
-                                "key": "shared_item_grid"
+                "type": "dock",
+                //"dropshadow": true,
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tabbedlayout"
+                    },
+                    {
+                        "type": "dock",
+                        "dock": "bottom",
+                        "h_alignment": "stretch",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Items",
+                                "dock": "top",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "shared_item_grid"
+                                }
                             }
-                        }
-                    ]
-                },
-                {
-                    "type": "layout",
-                    "key": "tabbedlayout"
-                }
-            ]
-        }
+                        ]
+                    }
+                ]
+            }
         ]
     }
 }
