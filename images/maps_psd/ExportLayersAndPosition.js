@@ -385,6 +385,18 @@ function createStarLocation(map, square, item) {
 	var format = '    [%5]={"@%2/%3/%4","@Level %1/%2/Stars"},';
 	var world = map.slice(0,1);
 	var starray = [];
+	fillStarray(starray);
+	format = format.replace('%1',world);
+	format = format.replace('%2',map);
+	format = format.replace('%2',map);
+	//.replaceAll() I think doesn't work in PS. You can try again though
+	format = format.replace('%3',square);
+	format = format.replace('%4',item);
+	format = format.replace('%5',starray[map + ' ' + item]);
+	return format;
+}
+
+function fillStarray(starray) {
 	starray['1-1 Star 1'] = '0x770401';
 	starray['1-1 Star 2'] = '0x770402';
 	starray['1-1 Star 3'] = '0x770403';
@@ -1152,11 +1164,4 @@ function createStarLocation(map, square, item) {
 	starray['5-5 Star 33'] = '0x7706fd';
 	starray['5-5 Star 34'] = '0x7706fe';
 	starray['5-6 Star 1'] = '0x7706ff';
-	format = format.replace('%1',world);
-	format = format.replace('%2',map);
-	format = format.replace('%2',map);
-	format = format.replace('%3',square);
-	format = format.replace('%4',item);
-	format = format.replace('%5',starray[map + ' ' + item]);
-	return format;
 }
