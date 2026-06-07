@@ -180,6 +180,8 @@ function main(){
 	worldFileContent += worldFileContentFooter;
 	worldFile.writeln(tabsToSpaces(worldFileContent));
 }
+
+//OG layer code. Not mine, alter at own risk.
 function getNamesPlusIDs(){
 	var ref = new ActionReference();
 	ref.putEnumerated( charIDToTypeID('Dcmn'), charIDToTypeID('Ordn'), charIDToTypeID('Trgt') );
@@ -216,6 +218,7 @@ function getNamesPlusIDs(){
 	};
 	return Names;
 };
+
 function capitalizeLayerName(layerName) {
 	var capitalName = layerName.toString();
 	capitalName = capitalName.replace("stage", "Stage");
