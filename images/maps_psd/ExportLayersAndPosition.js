@@ -30,13 +30,14 @@ function main(){
 		worldFile.open("w", "TEXT", "????");
 		var worldFileHeader = '[';
 		worldFileHeader += '\n\t{';
-		worldFileHeader += '\n\t\t"name": "Level ' + worldID + ': ' + arrWorlds[worldID] + '"';
+		worldFileHeader += '\n\t\t"name": "Level ' + worldID ;//+ ': ' + arrWorlds[worldID] + '"';
 		worldFileHeader += '\n\t\t"children": [';
 		worldFile.writeln(tabsToSpaces(worldFileHeader));
 	}
 	else {
 		worldFile.open("a", "TEXT", "????");
 	}
+	//set up headers and footers for the World file
 	var worldFileContent = '\t\t\t{';
 	worldFileContent += '\n\t\t\t\t"name": "' + levelID + '",';
 	worldFileContent += '\n\t\t\t\t"access_rules": [';
@@ -62,6 +63,7 @@ function main(){
 	}
 	locationsFile.writeln("-- " + levelID);
 	$.os.search(/windows/i)	!= -1 ? file.lineFeed = 'windows' : file.lineFeed = 'macintosh';
+	//This is not my code, but it feels smart. Gonna leave it until I feel ready to test without it.
 	var locationCount = Info.length;
 	var locationHeader = '[';
 	locationHeader += '\n\t{';
