@@ -5,9 +5,6 @@
         [
             {
                 "name": "Star 2",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -19,15 +16,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 2"
+                        "name": "Star 2",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 2"
                     }
                 ]
             },
             {
                 "name": "Star 3",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -39,15 +34,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 3"
+                        "name": "Star 3",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 3"
                     }
                 ]
             },
             {
                 "name": "Star 4",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -59,15 +52,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 4"
+                        "name": "Star 4",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 4"
                     }
                 ]
             },
             {
                 "name": "Star 5",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -79,15 +70,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 5"
+                        "name": "Star 5",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 5"
                     }
                 ]
             },
             {
                 "name": "Star 6",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -99,15 +88,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 6"
+                        "name": "Star 6",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 6"
                     }
                 ]
             },
             {
                 "name": "Star 7",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -119,15 +106,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 7"
+                        "name": "Star 7",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 7"
                     }
                 ]
             },
             {
                 "name": "Star 8",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -139,15 +124,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 8"
+                        "name": "Star 8",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 8"
                     }
                 ]
             },
             {
                 "name": "Star 9",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -159,15 +142,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 9"
+                        "name": "Star 9",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 9"
                     }
                 ]
             },
             {
                 "name": "Star 1",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -179,7 +160,8 @@
                 "sections":
                 [
                     {
-                        "name": "Star 1"
+                        "name": "Star 1",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 1"
                     }
                 ]
             },
@@ -203,9 +185,6 @@
             },
             {
                 "name": "Star 10",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -217,15 +196,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 10"
+                        "name": "Star 10",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 10"
                     }
                 ]
             },
             {
                 "name": "Star 11",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -237,15 +214,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 11"
+                        "name": "Star 11",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 11"
                     }
                 ]
             },
             {
                 "name": "Star 12",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -257,15 +232,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 12"
+                        "name": "Star 12",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 12"
                     }
                 ]
             },
             {
                 "name": "Star 13",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -277,15 +250,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 13"
+                        "name": "Star 13",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 13"
                     }
                 ]
             },
             {
                 "name": "Star 14",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -297,15 +268,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 14"
+                        "name": "Star 14",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 14"
                     }
                 ]
             },
             {
                 "name": "Star 16 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -317,15 +286,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 16"
+                        "name": "Star 16 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 16 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 15 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -337,15 +304,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 15"
+                        "name": "Star 15 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 15 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 19 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -357,15 +322,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 19"
+                        "name": "Star 19 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 19 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 21 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -377,15 +340,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 21"
+                        "name": "Star 21 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 21 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 20 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -397,15 +358,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 20"
+                        "name": "Star 20 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 20 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 22 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -417,15 +376,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 22"
+                        "name": "Star 22 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 22 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 23 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -437,15 +394,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 23"
+                        "name": "Star 23 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 23 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 24 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -457,15 +412,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 24"
+                        "name": "Star 24 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 24 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 25 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -477,15 +430,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 25"
+                        "name": "Star 25 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 25 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 17 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -497,15 +448,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 17"
+                        "name": "Star 17 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 17 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 18 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -517,7 +466,8 @@
                 "sections":
                 [
                     {
-                        "name": "Star 18"
+                        "name": "Star 18 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 18 (Block)"
                     }
                 ]
             },
@@ -541,9 +491,6 @@
             },
             {
                 "name": "Star 26 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -555,15 +502,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 26"
+                        "name": "Star 26 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 26 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 27 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -575,15 +520,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 27"
+                        "name": "Star 27 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 27 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 28 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -595,15 +538,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 28"
+                        "name": "Star 28 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 28 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 29 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -615,7 +556,8 @@
                 "sections":
                 [
                     {
-                        "name": "Star 29"
+                        "name": "Star 29 (Block)",
+                        "ref": "Level 1/1-6/Grass Land 6 - Star 29 (Block)"
                     }
                 ]
             }

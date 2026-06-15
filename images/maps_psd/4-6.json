@@ -5,9 +5,6 @@
         [
             {
                 "name": "Star 1",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -19,15 +16,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 1"
+                        "name": "Star 1",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 1"
                     }
                 ]
             },
             {
                 "name": "Stars 2,3,4,5",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -39,24 +34,25 @@
                 "sections":
                 [
                     {
-                        "name": "Star 2"
+                        "name": "Star 2",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 2"
                     },
                     {
-                        "name": "Star 3"
+                        "name": "Star 3",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 3"
                     },
                     {
-                        "name": "Star 4"
+                        "name": "Star 4",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 4"
                     },
                     {
-                        "name": "Star 5"
+                        "name": "Star 5",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 5"
                     }
                 ]
             },
             {
                 "name": "Star 14",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -68,15 +64,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 14"
+                        "name": "Star 14",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 14"
                     }
                 ]
             },
             {
                 "name": "Star 15",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -88,15 +82,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 15"
+                        "name": "Star 15",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 15"
                     }
                 ]
             },
             {
                 "name": "Star 16",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -108,15 +100,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 16"
+                        "name": "Star 16",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 16"
                     }
                 ]
             },
             {
                 "name": "Star 17",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -128,15 +118,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 17"
+                        "name": "Star 17",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 17"
                     }
                 ]
             },
             {
                 "name": "Star 8",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -148,15 +136,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 8"
+                        "name": "Star 8",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 8"
                     }
                 ]
             },
             {
                 "name": "Star 6",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -168,15 +154,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 6"
+                        "name": "Star 6",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 6"
                     }
                 ]
             },
             {
                 "name": "Star 7",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -188,16 +172,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 7"
+                        "name": "Star 7",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 7"
                     }
                 ]
             },
             {
                 "name": "Star 20 (Ice)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Ice"],
                 "map_locations":
                 [
                     {
@@ -209,16 +190,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 20"
+                        "name": "Star 20 (Ice)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 20 (Ice)"
                     }
                 ]
             },
             {
                 "name": "Star 22 (Ice)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Ice"],
                 "map_locations":
                 [
                     {
@@ -230,16 +208,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 22"
+                        "name": "Star 22 (Ice)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 22 (Ice)"
                     }
                 ]
             },
             {
                 "name": "Star 18 (Ice)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Ice"],
                 "map_locations":
                 [
                     {
@@ -251,16 +226,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 18"
+                        "name": "Star 18 (Ice)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 18 (Ice)"
                     }
                 ]
             },
             {
                 "name": "Star 23 (Ice)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Ice"],
                 "map_locations":
                 [
                     {
@@ -272,16 +244,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 23"
+                        "name": "Star 23 (Ice)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 23 (Ice)"
                     }
                 ]
             },
             {
                 "name": "Star 21 (Ice)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Ice"],
                 "map_locations":
                 [
                     {
@@ -293,16 +262,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 21"
+                        "name": "Star 21 (Ice)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 21 (Ice)"
                     }
                 ]
             },
             {
                 "name": "Star 24 (Ice)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Ice"],
                 "map_locations":
                 [
                     {
@@ -314,7 +280,8 @@
                 "sections":
                 [
                     {
-                        "name": "Star 24"
+                        "name": "Star 24 (Ice)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 24 (Ice)"
                     }
                 ]
             },
@@ -338,10 +305,6 @@
             },
             {
                 "name": "Star 25 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -353,16 +316,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 25"
+                        "name": "Star 25 (Burning)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 25 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 27 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -374,16 +334,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 27"
+                        "name": "Star 27 (Burning)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 27 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 19 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -395,16 +352,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 19"
+                        "name": "Star 19 (Burning)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 19 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 28 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -416,16 +370,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 28"
+                        "name": "Star 28 (Burning)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 28 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 26 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -437,16 +388,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 26"
+                        "name": "Star 26 (Burning)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 26 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 29 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -458,15 +406,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 29"
+                        "name": "Star 29 (Burning)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 29 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Stars 30,31,32,33",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -478,24 +424,25 @@
                 "sections":
                 [
                     {
-                        "name": "Star 30"
+                        "name": "Star 30",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 30"
                     },
                     {
-                        "name": "Star 31"
+                        "name": "Star 31",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 31"
                     },
                     {
-                        "name": "Star 32"
+                        "name": "Star 32",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 32"
                     },
                     {
-                        "name": "Star 33"
+                        "name": "Star 33",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 33"
                     }
                 ]
             },
             {
                 "name": "Star 11 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -507,15 +454,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 11"
+                        "name": "Star 11 (Block)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 11 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 12 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -527,15 +472,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 12"
+                        "name": "Star 12 (Block)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 12 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 10 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -547,15 +490,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 10"
+                        "name": "Star 10 (Block)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 10 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 9 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -567,15 +508,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 9"
+                        "name": "Star 9 (Block)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 9 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 13 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -587,7 +526,8 @@
                 "sections":
                 [
                     {
-                        "name": "Star 13"
+                        "name": "Star 13 (Block)",
+                        "ref": "Level 4/4-6/Cloudy Park 6 - Star 13 (Block)"
                     }
                 ]
             }

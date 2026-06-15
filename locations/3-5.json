@@ -5,9 +5,6 @@
         [
             {
                 "name": "Star 4",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -19,15 +16,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 4"
+                        "name": "Star 4",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 4"
                     }
                 ]
             },
             {
                 "name": "Star 9",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -39,15 +34,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 9"
+                        "name": "Star 9",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 9"
                     }
                 ]
             },
             {
                 "name": "Star 5",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -59,15 +52,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 5"
+                        "name": "Star 5",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 5"
                     }
                 ]
             },
             {
                 "name": "Star 8",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -79,15 +70,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 8"
+                        "name": "Star 8",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 8"
                     }
                 ]
             },
             {
                 "name": "Star 7",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -99,15 +88,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 7"
+                        "name": "Star 7",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 7"
                     }
                 ]
             },
             {
                 "name": "Star 10",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -119,15 +106,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 10"
+                        "name": "Star 10",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 10"
                     }
                 ]
             },
             {
                 "name": "Star 6",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -139,15 +124,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 6"
+                        "name": "Star 6",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 6"
                     }
                 ]
             },
             {
                 "name": "Star 2",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -159,15 +142,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 2"
+                        "name": "Star 2",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 2"
                     }
                 ]
             },
             {
                 "name": "Star 1",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -179,15 +160,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 1"
+                        "name": "Star 1",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 1"
                     }
                 ]
             },
             {
                 "name": "Star 3",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -199,7 +178,8 @@
                 "sections":
                 [
                     {
-                        "name": "Star 3"
+                        "name": "Star 3",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 3"
                     }
                 ]
             },
@@ -223,9 +203,6 @@
             },
             {
                 "name": "Star 11 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -237,7 +214,8 @@
                 "sections":
                 [
                     {
-                        "name": "Star 11"
+                        "name": "Star 11 (Block)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 11 (Block)"
                     }
                 ]
             },
@@ -315,14 +293,6 @@
             },
             {
                 "name": "Star 12 (Ice)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules":
-                [
-                    "Ice,Rick","Ice,Coo","Ice,Nago","Ice,ChuChu","Ice,Pitch",
-                    "[Rick],[Coo],[Nago],[ChuChu],[Pitch],Ice,Kine"
-                ],
                 "map_locations":
                 [
                     {
@@ -334,20 +304,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 12"
+                        "name": "Star 12 (Ice)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 12 (Ice)"
                     }
                 ]
             },
             {
                 "name": "Star 13 (Ice)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules":
-                [
-                    "Ice,Rick","Ice,Coo","Ice,Nago","Ice,ChuChu","Ice,Pitch",
-                    "[Rick],[Coo],[Nago],[ChuChu],[Pitch],Ice,Kine"
-                ],
                 "map_locations":
                 [
                     {
@@ -359,20 +322,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 13"
+                        "name": "Star 13 (Ice)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 13 (Ice)"
                     }
                 ]
             },
             {
                 "name": "Star 14 (Ice)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules":
-                [
-                    "Ice,Rick","Ice,Coo","Ice,Nago","Ice,ChuChu","Ice,Pitch",
-                    "[Rick],[Coo],[Nago],[ChuChu],[Pitch],Ice,Kine"
-                ],
                 "map_locations":
                 [
                     {
@@ -384,20 +340,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 14"
+                        "name": "Star 14 (Ice)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 14 (Ice)"
                     }
                 ]
             },
             {
                 "name": "Star 15 (Ice)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules":
-                [
-                    "Ice,Rick","Ice,Coo","Ice,Nago","Ice,ChuChu","Ice,Pitch",
-                    "[Rick],[Coo],[Nago],[ChuChu],[Pitch],Ice,Kine"
-                ],
                 "map_locations":
                 [
                     {
@@ -409,20 +358,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 15"
+                        "name": "Star 15 (Ice)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 15 (Ice)"
                     }
                 ]
             },
             {
                 "name": "Star 16 (Ice)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules":
-                [
-                    "Ice,Rick","Ice,Coo","Ice,Nago","Ice,ChuChu","Ice,Pitch",
-                    "[Rick],[Coo],[Nago],[ChuChu],[Pitch],Ice,Kine"
-                ],
                 "map_locations":
                 [
                     {
@@ -434,20 +376,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 16"
+                        "name": "Star 16 (Ice)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 16 (Ice)"
                     }
                 ]
             },
             {
                 "name": "Star 17 (Ice)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules":
-                [
-                    "Ice,Rick","Ice,Coo","Ice,Nago","Ice,ChuChu","Ice,Pitch",
-                    "[Rick],[Coo],[Nago],[ChuChu],[Pitch],Ice,Kine"
-                ],
                 "map_locations":
                 [
                     {
@@ -459,15 +394,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 17"
+                        "name": "Star 17 (Ice)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 17 (Ice)"
                     }
                 ]
             },
             {
                 "name": "Star 18",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -479,16 +412,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 18"
+                        "name": "Star 18",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 18"
                     }
                 ]
             },
             {
                 "name": "Star 22",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Chuchu"],
                 "map_locations":
                 [
                     {
@@ -500,16 +430,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 22"
+                        "name": "Star 22",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 22"
                     }
                 ]
             },
             {
                 "name": "Star 21",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Chuchu"],
                 "map_locations":
                 [
                     {
@@ -521,16 +448,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 21"
+                        "name": "Star 21",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 21"
                     }
                 ]
             },
             {
                 "name": "Star 31 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -542,16 +466,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 31"
+                        "name": "Star 31 (Burning)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 31 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 32 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -563,16 +484,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 32"
+                        "name": "Star 32 (Burning)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 32 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 33 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -584,16 +502,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 33"
+                        "name": "Star 33 (Burning)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 33 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 35 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -605,16 +520,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 35"
+                        "name": "Star 35 (Burning)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 35 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 36 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -626,16 +538,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 36"
+                        "name": "Star 36 (Burning)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 36 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 34 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -647,16 +556,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 34"
+                        "name": "Star 34 (Burning)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 34 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 39 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -668,16 +574,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 39"
+                        "name": "Star 39 (Burning)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 39 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 40 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -689,16 +592,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 40"
+                        "name": "Star 40 (Burning)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 40 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 38 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -710,16 +610,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 38"
+                        "name": "Star 38 (Burning)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 38 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 37 (Burning)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -731,16 +628,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 37"
+                        "name": "Star 37 (Burning)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 37 (Burning)"
                     }
                 ]
             },
             {
                 "name": "Star 23 (Clean)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Clean"],
                 "map_locations":
                 [
                     {
@@ -752,16 +646,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 23"
+                        "name": "Star 23 (Clean)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 23 (Clean)"
                     }
                 ]
             },
             {
                 "name": "Star 20 (Clean)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Clean"],
                 "map_locations":
                 [
                     {
@@ -773,16 +664,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 20"
+                        "name": "Star 20 (Clean)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 20 (Clean)"
                     }
                 ]
             },
             {
                 "name": "Star 24 (Clean)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Clean"],
                 "map_locations":
                 [
                     {
@@ -794,16 +682,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 24"
+                        "name": "Star 24 (Clean)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 24 (Clean)"
                     }
                 ]
             },
             {
                 "name": "Star 25 (Clean)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Clean"],
                 "map_locations":
                 [
                     {
@@ -815,16 +700,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 25"
+                        "name": "Star 25 (Clean)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 25 (Clean)"
                     }
                 ]
             },
             {
                 "name": "Star 26 (Clean)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Clean"],
                 "map_locations":
                 [
                     {
@@ -836,16 +718,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 26"
+                        "name": "Star 26 (Clean)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 26 (Clean)"
                     }
                 ]
             },
             {
                 "name": "Star 27 (Clean)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Clean"],
                 "map_locations":
                 [
                     {
@@ -857,16 +736,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 27"
+                        "name": "Star 27 (Clean)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 27 (Clean)"
                     }
                 ]
             },
             {
                 "name": "Star 19 (Clean)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Clean"],
                 "map_locations":
                 [
                     {
@@ -878,16 +754,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 19"
+                        "name": "Star 19 (Clean)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 19 (Clean)"
                     }
                 ]
             },
             {
                 "name": "Star 28 (Clean)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Clean"],
                 "map_locations":
                 [
                     {
@@ -899,16 +772,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 28"
+                        "name": "Star 28 (Clean)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 28 (Clean)"
                     }
                 ]
             },
             {
                 "name": "Star 29 (Clean)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Clean"],
                 "map_locations":
                 [
                     {
@@ -920,16 +790,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 29"
+                        "name": "Star 29 (Clean)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 29 (Clean)"
                     }
                 ]
             },
             {
                 "name": "Star 30 (Clean)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Clean"],
                 "map_locations":
                 [
                     {
@@ -941,7 +808,8 @@
                 "sections":
                 [
                     {
-                        "name": "Star 30"
+                        "name": "Star 30 (Clean)",
+                        "ref": "Level 3/3-5/Sand Canyon 5 - Star 30 (Clean)"
                     }
                 ]
             }

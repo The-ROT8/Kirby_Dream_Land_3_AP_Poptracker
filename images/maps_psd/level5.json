@@ -1,6 +1,6 @@
 [
     {
-        "name": "Level 5: Iceberg"
+        "name": "Level 5",
         "children": [
             {
                 "name": "5-1",
@@ -9,28 +9,40 @@
                 ],
                 "sections": [
                     {
-                        "name": "Star 6",
-                        "ref": "5-1/Star 6/Star 6",
+                        "name": "Iceberg 1 - Star 6",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 5",
-                        "ref": "5-1/Star 5/Star 5",
+                        "name": "Iceberg 1 - Star 5",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 4",
-                        "ref": "5-1/Star 4/Star 4",
+                        "name": "Iceberg 1 - Star 4",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 3",
-                        "ref": "5-1/Star 3/Star 3",
+                        "name": "Iceberg 1 - Star 3",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 2",
-                        "ref": "5-1/Star 2/Star 2",
+                        "name": "Iceberg 1 - Star 2",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 1",
-                        "ref": "5-1/Star 1/Star 1",
+                        "name": "Iceberg 1 - Star 1",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                 ],
             },
@@ -41,80 +53,118 @@
                 ],
                 "sections": [
                     {
-                        "name": "Star 3",
-                        "ref": "5-2/Star 3/Star 3",
+                        "name": "Iceberg 2 - Star 3",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 1",
-                        "ref": "5-2/Star 1/Star 1",
+                        "name": "Iceberg 2 - Star 1",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 2",
-                        "ref": "5-2/Star 2/Star 2",
+                        "name": "Iceberg 2 - Star 2",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 4",
-                        "ref": "5-2/Star 4/Star 4",
+                        "name": "Iceberg 2 - Star 4",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 5",
-                        "ref": "5-2/Star 5/Star 5",
+                        "name": "Iceberg 2 - Star 5",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 7",
-                        "ref": "5-2/Star 7/Star 7",
+                        "name": "Iceberg 2 - Star 7",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 6",
-                        "ref": "5-2/Star 6/Star 6",
+                        "name": "Iceberg 2 - Star 6",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 8",
-                        "ref": "5-2/Star 8/Star 8",
+                        "name": "Iceberg 2 - Star 8",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 12",
-                        "ref": "5-2/Star 12/Star 12",
+                        "name": "Iceberg 2 - Star 12",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 13",
-                        "ref": "5-2/Star 13/Star 13",
+                        "name": "Iceberg 2 - Star 13",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 15 (Block)",
-                        "ref": "5-2/Star 15 (Block)/Star 15",
+                        "name": "Iceberg 2 - Star 15 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 14 (Block)",
-                        "ref": "5-2/Star 14 (Block)/Star 14",
+                        "name": "Iceberg 2 - Star 14 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 16 (Block)",
-                        "ref": "5-2/Star 16 (Block)/Star 16",
+                        "name": "Iceberg 2 - Star 16 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 11",
-                        "ref": "5-2/Star 11/Star 11",
+                        "name": "Iceberg 2 - Star 11",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 10",
-                        "ref": "5-2/Star 10/Star 10",
+                        "name": "Iceberg 2 - Star 10",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 9",
-                        "ref": "5-2/Star 9/Star 9",
+                        "name": "Iceberg 2 - Star 9",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 19 (Block)",
-                        "ref": "5-2/Star 19 (Block)/Star 19",
+                        "name": "Iceberg 2 - Star 19 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 17 (Block)",
-                        "ref": "5-2/Star 17 (Block)/Star 17",
+                        "name": "Iceberg 2 - Star 17 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 18 (Block)",
-                        "ref": "5-2/Star 18 (Block)/Star 18",
+                        "name": "Iceberg 2 - Star 18 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                 ],
             },
@@ -125,88 +175,130 @@
                 ],
                 "sections": [
                     {
-                        "name": "Star 1",
-                        "ref": "5-3/Star 1/Star 1",
+                        "name": "Iceberg 3 - Star 1",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 2",
-                        "ref": "5-3/Star 2/Star 2",
+                        "name": "Iceberg 3 - Star 2",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 3",
-                        "ref": "5-3/Star 3/Star 3",
+                        "name": "Iceberg 3 - Star 3",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 7",
-                        "ref": "5-3/Star 7/Star 7",
+                        "name": "Iceberg 3 - Star 7",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 4",
-                        "ref": "5-3/Star 4/Star 4",
+                        "name": "Iceberg 3 - Star 4",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 8",
-                        "ref": "5-3/Star 8/Star 8",
+                        "name": "Iceberg 3 - Star 8",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 9",
-                        "ref": "5-3/Star 9/Star 9",
+                        "name": "Iceberg 3 - Star 9",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 5",
-                        "ref": "5-3/Star 5/Star 5",
+                        "name": "Iceberg 3 - Star 5",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 10",
-                        "ref": "5-3/Star 10/Star 10",
+                        "name": "Iceberg 3 - Star 10",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 6",
-                        "ref": "5-3/Star 6/Star 6",
+                        "name": "Iceberg 3 - Star 6",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 15",
-                        "ref": "5-3/Star 15/Star 15",
+                        "name": "Iceberg 3 - Star 15",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 16",
-                        "ref": "5-3/Star 16/Star 16",
+                        "name": "Iceberg 3 - Star 16",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 17",
-                        "ref": "5-3/Star 17/Star 17",
+                        "name": "Iceberg 3 - Star 17",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 13",
-                        "ref": "5-3/Star 13/Star 13",
+                        "name": "Iceberg 3 - Star 13",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 14",
-                        "ref": "5-3/Star 14/Star 14",
+                        "name": "Iceberg 3 - Star 14",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 11",
-                        "ref": "5-3/Star 11/Star 11",
+                        "name": "Iceberg 3 - Star 11",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 12",
-                        "ref": "5-3/Star 12/Star 12",
+                        "name": "Iceberg 3 - Star 12",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 18",
-                        "ref": "5-3/Star 18/Star 18",
+                        "name": "Iceberg 3 - Star 18",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 20",
-                        "ref": "5-3/Star 20/Star 20",
+                        "name": "Iceberg 3 - Star 20",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 21",
-                        "ref": "5-3/Star 21/Star 21",
+                        "name": "Iceberg 3 - Star 21",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 19",
-                        "ref": "5-3/Star 19/Star 19",
+                        "name": "Iceberg 3 - Star 19",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                 ],
             },
@@ -217,16 +309,25 @@
                 ],
                 "sections": [
                     {
-                        "name": "Star 1",
-                        "ref": "5-4/Star 1/Star 1",
+                        "name": "Iceberg 4 - Star 1",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Burning"]
                     },
                     {
-                        "name": "Star 2",
-                        "ref": "5-4/Star 2/Star 2",
+                        "name": "Iceberg 4 - Star 2",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Burning"]
                     },
                     {
-                        "name": "Star 3",
-                        "ref": "5-4/Star 3/Star 3",
+                        "name": "Iceberg 4 - Star 3",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Burning"]
                     },
                 ],
             },
@@ -237,140 +338,208 @@
                 ],
                 "sections": [
                     {
-                        "name": "Star 1",
-                        "ref": "5-5/Star 1/Star 1",
+                        "name": "Iceberg 5 - Star 1",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 2",
-                        "ref": "5-5/Star 2/Star 2",
+                        "name": "Iceberg 5 - Star 2",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 3",
-                        "ref": "5-5/Star 3/Star 3",
+                        "name": "Iceberg 5 - Star 3",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 4",
-                        "ref": "5-5/Star 4/Star 4",
+                        "name": "Iceberg 5 - Star 4",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 5",
-                        "ref": "5-5/Star 5/Star 5",
+                        "name": "Iceberg 5 - Star 5",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 6",
-                        "ref": "5-5/Star 6/Star 6",
+                        "name": "Iceberg 5 - Star 6",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 7",
-                        "ref": "5-5/Star 7/Star 7",
+                        "name": "Iceberg 5 - Star 7",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 8",
-                        "ref": "5-5/Star 8/Star 8",
+                        "name": "Iceberg 5 - Star 8",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 9",
-                        "ref": "5-5/Star 9/Star 9",
+                        "name": "Iceberg 5 - Star 9",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 10",
-                        "ref": "5-5/Star 10/Star 10",
+                        "name": "Iceberg 5 - Star 10",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 11",
-                        "ref": "5-5/Star 11/Star 11",
+                        "name": "Iceberg 5 - Star 11",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 12",
-                        "ref": "5-5/Star 12/Star 12",
+                        "name": "Iceberg 5 - Star 12",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 13",
-                        "ref": "5-5/Star 13/Star 13",
+                        "name": "Iceberg 5 - Star 13",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 14",
-                        "ref": "5-5/Star 14/Star 14",
+                        "name": "Iceberg 5 - Star 14",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 15",
-                        "ref": "5-5/Star 15/Star 15",
+                        "name": "Iceberg 5 - Star 15",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 16",
-                        "ref": "5-5/Star 16/Star 16",
+                        "name": "Iceberg 5 - Star 16",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 17",
-                        "ref": "5-5/Star 17/Star 17",
+                        "name": "Iceberg 5 - Star 17",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 18",
-                        "ref": "5-5/Star 18/Star 18",
+                        "name": "Iceberg 5 - Star 18",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 20",
-                        "ref": "5-5/Star 20/Star 20",
+                        "name": "Iceberg 5 - Star 20",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 19",
-                        "ref": "5-5/Star 19/Star 19",
+                        "name": "Iceberg 5 - Star 19",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 24",
-                        "ref": "5-5/Star 24/Star 24",
+                        "name": "Iceberg 5 - Star 24",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 21",
-                        "ref": "5-5/Star 21/Star 21",
+                        "name": "Iceberg 5 - Star 21",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 23",
-                        "ref": "5-5/Star 23/Star 23",
+                        "name": "Iceberg 5 - Star 23",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 22",
-                        "ref": "5-5/Star 22/Star 22",
+                        "name": "Iceberg 5 - Star 22",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 25",
-                        "ref": "5-5/Star 25/Star 25",
+                        "name": "Iceberg 5 - Star 25",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 33",
-                        "ref": "5-5/Star 33/Star 33",
+                        "name": "Iceberg 5 - Star 33",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 34",
-                        "ref": "5-5/Star 34/Star 34",
+                        "name": "Iceberg 5 - Star 34",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 32",
-                        "ref": "5-5/Star 32/Star 32",
+                        "name": "Iceberg 5 - Star 32",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 31",
-                        "ref": "5-5/Star 31/Star 31",
+                        "name": "Iceberg 5 - Star 31",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 29",
-                        "ref": "5-5/Star 29/Star 29",
+                        "name": "Iceberg 5 - Star 29",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 28",
-                        "ref": "5-5/Star 28/Star 28",
+                        "name": "Iceberg 5 - Star 28",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 30",
-                        "ref": "5-5/Star 30/Star 30",
+                        "name": "Iceberg 5 - Star 30",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 27",
-                        "ref": "5-5/Star 27/Star 27",
+                        "name": "Iceberg 5 - Star 27",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 26",
-                        "ref": "5-5/Star 26/Star 26",
+                        "name": "Iceberg 5 - Star 26",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                 ],
             },
@@ -381,8 +550,10 @@
                 ],
                 "sections": [
                     {
-                        "name": "Star 1 (right)",
-                        "ref": "5-6/Star 1 (right)/Star 1",
+                        "name": "Iceberg 6 - Star 1 (right)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                 ],
             }

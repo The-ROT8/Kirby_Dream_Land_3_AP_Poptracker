@@ -23,9 +23,6 @@
             },
             {
                 "name": "Stars 11-22 (Polof Room)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -37,48 +34,57 @@
                 "sections":
                 [
                     {
-                        "name": "Star 11"
+                        "name": "Star 11 (Polof Room)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 11 (Polof Room)"
                     },
                     {
-                        "name": "Star 12"
+                        "name": "Star 12 (Polof Room)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 12 (Polof Room)"
                     },
                     {
-                        "name": "Star 13"
+                        "name": "Star 13 (Polof Room)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 13 (Polof Room)"
                     },
                     {
-                        "name": "Star 14"
+                        "name": "Star 14 (Polof Room)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 14 (Polof Room)"
                     },
                     {
-                        "name": "Star 15"
+                        "name": "Star 15 (Polof Room)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 15 (Polof Room)"
                     },
                     {
-                        "name": "Star 16"
+                        "name": "Star 16 (Polof Room)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 16 (Polof Room)"
                     },
                     {
-                        "name": "Star 17"
+                        "name": "Star 17 (Polof Room)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 17 (Polof Room)"
                     },
                     {
-                        "name": "Star 18"
+                        "name": "Star 18 (Polof Room)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 18 (Polof Room)"
                     },
                     {
-                        "name": "Star 19"
+                        "name": "Star 19 (Polof Room)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 19 (Polof Room)"
                     },
                     {
-                        "name": "Star 20"
+                        "name": "Star 20 (Polof Room)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 20 (Polof Room)"
                     },
                     {
-                        "name": "Star 21"
+                        "name": "Star 21 (Polof Room)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 21 (Polof Room)"
                     },
                     {
-                        "name": "Star 22"
+                        "name": "Star 22 (Polof Room)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 22 (Polof Room)"
                     }
                 ]
             },
             {
                 "name": "Stars 1,2,3,4",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -90,24 +96,25 @@
                 "sections":
                 [
                     {
-                        "name": "Star 1"
+                        "name": "Star 1",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 1"
                     },
                     {
-                        "name": "Star 2"
+                        "name": "Star 2",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 2"
                     },
                     {
-                        "name": "Star 3"
+                        "name": "Star 3",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 3"
                     },
                     {
-                        "name": "Star 4"
+                        "name": "Star 4",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 4"
                     }
                 ]
             },
             {
                 "name": "Star 10 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -119,15 +126,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 10"
+                        "name": "Star 10 (Block)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 10 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 9 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -139,15 +144,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 9"
+                        "name": "Star 9 (Block)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 9 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 8 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -159,15 +162,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 8"
+                        "name": "Star 8 (Block)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 8 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 7 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -179,15 +180,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 7"
+                        "name": "Star 7 (Block)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 7 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 6 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -199,15 +198,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 6"
+                        "name": "Star 6 (Block)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 6 (Block)"
                     }
                 ]
             },
             {
                 "name": "Star 5 (Block)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -219,7 +216,8 @@
                 "sections":
                 [
                     {
-                        "name": "Star 5"
+                        "name": "Star 5 (Block)",
+                        "ref": "Level 3/3-1/Sand Canyon 1 - Star 5 (Block)"
                     }
                 ]
             }

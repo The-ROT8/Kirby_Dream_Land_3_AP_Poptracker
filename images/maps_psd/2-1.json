@@ -5,9 +5,6 @@
         [
             {
                 "name": "Star 5",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -19,15 +16,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 5"
+                        "name": "Star 5",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 5"
                     }
                 ]
             },
             {
                 "name": "Star 1",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -39,15 +34,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 1"
+                        "name": "Star 1",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 1"
                     }
                 ]
             },
             {
                 "name": "Star 2",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -59,15 +52,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 2"
+                        "name": "Star 2",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 2"
                     }
                 ]
             },
             {
                 "name": "Star 3",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -79,15 +70,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 3"
+                        "name": "Star 3",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 3"
                     }
                 ]
             },
             {
                 "name": "Star 4",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -99,15 +88,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 4"
+                        "name": "Star 4",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 4"
                     }
                 ]
             },
             {
                 "name": "Star 6",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -119,15 +106,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 6"
+                        "name": "Star 6",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 6"
                     }
                 ]
             },
             {
                 "name": "Star 17",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -139,15 +124,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 17"
+                        "name": "Star 17",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 17"
                     }
                 ]
             },
             {
                 "name": "Star 18",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -159,15 +142,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 18"
+                        "name": "Star 18",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 18"
                     }
                 ]
             },
             {
                 "name": "Star 19",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -179,15 +160,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 19"
+                        "name": "Star 19",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 19"
                     }
                 ]
             },
             {
                 "name": "Star 11",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -199,15 +178,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 11"
+                        "name": "Star 11",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 11"
                     }
                 ]
             },
             {
                 "name": "Star 12",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -219,15 +196,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 12"
+                        "name": "Star 12",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 12"
                     }
                 ]
             },
             {
                 "name": "Star 13",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -239,15 +214,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 13"
+                        "name": "Star 13",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 13"
                     }
                 ]
             },
             {
                 "name": "Star 14",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -259,15 +232,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 14"
+                        "name": "Star 14",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 14"
                     }
                 ]
             },
             {
                 "name": "Star 15",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -279,15 +250,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 15"
+                        "name": "Star 15",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 15"
                     }
                 ]
             },
             {
                 "name": "Star 16",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -299,15 +268,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 16"
+                        "name": "Star 16",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 16"
                     }
                 ]
             },
             {
                 "name": "Star 9",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -319,15 +286,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 9"
+                        "name": "Star 9",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 9"
                     }
                 ]
             },
             {
                 "name": "Star 7",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -339,15 +304,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 7"
+                        "name": "Star 7",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 7"
                     }
                 ]
             },
             {
                 "name": "Star 8",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -359,15 +322,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 8"
+                        "name": "Star 8",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 8"
                     }
                 ]
             },
             {
                 "name": "Star 10",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -379,7 +340,8 @@
                 "sections":
                 [
                     {
-                        "name": "Star 10"
+                        "name": "Star 10",
+                        "ref": "Level 2/2-1/Ripple Field 1 - Star 10"
                     }
                 ]
             }

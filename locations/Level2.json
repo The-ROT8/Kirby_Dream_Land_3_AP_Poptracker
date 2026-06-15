@@ -21,7 +21,7 @@
                         ]
                     },
                     {
-                        "name": "Stars",
+                        "name": "Ripple Field 1 - Stars",
                         "chest_unopened_img": "images/StarLarge.png",
                         "chest_opened_img": "images/StarLargeDim.png",
                         "clear_as_group": false,
@@ -30,80 +30,118 @@
                         "item_count": 19
                     },
                     {
-                        "name": "Star 5",
-                        "ref": "2-1/Star 5/Star 5",
+                        "name": "Ripple Field 1 - Star 5",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 1",
-                        "ref": "2-1/Star 1/Star 1",
+                        "name": "Ripple Field 1 - Star 1",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 2",
-                        "ref": "2-1/Star 2/Star 2",
+                        "name": "Ripple Field 1 - Star 2",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 3",
-                        "ref": "2-1/Star 3/Star 3",
+                        "name": "Ripple Field 1 - Star 3",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 4",
-                        "ref": "2-1/Star 4/Star 4",
+                        "name": "Ripple Field 1 - Star 4",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 6",
-                        "ref": "2-1/Star 6/Star 6",
+                        "name": "Ripple Field 1 - Star 6",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 17",
-                        "ref": "2-1/Star 17/Star 17",
+                        "name": "Ripple Field 1 - Star 17",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 18",
-                        "ref": "2-1/Star 18/Star 18",
+                        "name": "Ripple Field 1 - Star 18",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 19",
-                        "ref": "2-1/Star 19/Star 19",
+                        "name": "Ripple Field 1 - Star 19",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 11",
-                        "ref": "2-1/Star 11/Star 11",
+                        "name": "Ripple Field 1 - Star 11",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 12",
-                        "ref": "2-1/Star 12/Star 12",
+                        "name": "Ripple Field 1 - Star 12",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 13",
-                        "ref": "2-1/Star 13/Star 13",
+                        "name": "Ripple Field 1 - Star 13",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 14",
-                        "ref": "2-1/Star 14/Star 14",
+                        "name": "Ripple Field 1 - Star 14",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 15",
-                        "ref": "2-1/Star 15/Star 15",
+                        "name": "Ripple Field 1 - Star 15",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 16",
-                        "ref": "2-1/Star 16/Star 16",
+                        "name": "Ripple Field 1 - Star 16",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 9",
-                        "ref": "2-1/Star 9/Star 9",
+                        "name": "Ripple Field 1 - Star 9",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 7",
-                        "ref": "2-1/Star 7/Star 7",
+                        "name": "Ripple Field 1 - Star 7",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 8",
-                        "ref": "2-1/Star 8/Star 8",
+                        "name": "Ripple Field 1 - Star 8",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 10",
-                        "ref": "2-1/Star 10/Star 10",
+                        "name": "Ripple Field 1 - Star 10",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                 ],
                 "map_locations": [
@@ -158,7 +196,7 @@
                         ]
                     },
                     {
-                        "name": "Stars",
+                        "name": "Ripple Field 2 - Stars",
                         "chest_unopened_img": "images/StarLarge.png",
                         "chest_opened_img": "images/StarLargeDim.png",
                         "clear_as_group": false,
@@ -167,72 +205,107 @@
                         "item_count": 17
                     },
                     {
-                        "name": "Star 2",
-                        "ref": "2-2/Star 2/Star 2",
+                        "name": "Ripple Field 2 - Star 2",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 3",
-                        "ref": "2-2/Star 3/Star 3",
+                        "name": "Ripple Field 2 - Star 3",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 1",
-                        "ref": "2-2/Star 1/Star 1",
+                        "name": "Ripple Field 2 - Star 1",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 4",
-                        "ref": "2-2/Star 4/Star 4",
+                        "name": "Ripple Field 2 - Star 4",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 9",
-                        "ref": "2-2/Star 9/Star 9",
+                        "name": "Ripple Field 2 - Star 9",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 10",
-                        "ref": "2-2/Star 10/Star 10",
+                        "name": "Ripple Field 2 - Star 10",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 11",
-                        "ref": "2-2/Star 11/Star 11",
+                        "name": "Ripple Field 2 - Star 11",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 12",
-                        "ref": "2-2/Star 12/Star 12",
+                        "name": "Ripple Field 2 - Star 12",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 13",
-                        "ref": "2-2/Star 13/Star 13",
+                        "name": "Ripple Field 2 - Star 13",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 14",
-                        "ref": "2-2/Star 14/Star 14",
+                        "name": "Ripple Field 2 - Star 14",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 15",
-                        "ref": "2-2/Star 15/Star 15",
+                        "name": "Ripple Field 2 - Star 15",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 16",
-                        "ref": "2-2/Star 16/Star 16",
+                        "name": "Ripple Field 2 - Star 16",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 17 (Currents)",
-                        "ref": "2-2/Star 17 (Currents)/Star 17",
+                        "name": "Ripple Field 2 - Star 17 (Currents)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 7",
-                        "ref": "2-2/Star 7/Star 7",
+                        "name": "Ripple Field 2 - Star 7",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 6",
-                        "ref": "2-2/Star 6/Star 6",
+                        "name": "Ripple Field 2 - Star 6",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 8",
-                        "ref": "2-2/Star 8/Star 8",
+                        "name": "Ripple Field 2 - Star 8",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 5",
-                        "ref": "2-2/Star 5/Star 5",
+                        "name": "Ripple Field 2 - Star 5",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                 ],
                 "map_locations": [
@@ -284,7 +357,7 @@
                         ]
                     },
                     {
-                        "name": "Stars",
+                        "name": "Ripple Field 3 - Stars",
                         "chest_unopened_img": "images/StarLarge.png",
                         "chest_opened_img": "images/StarLargeDim.png",
                         "clear_as_group": false,
@@ -293,88 +366,130 @@
                         "item_count": 21
                     },
                     {
-                        "name": "Star 1",
-                        "ref": "2-3/Star 1/Star 1",
+                        "name": "Ripple Field 3 - Star 1",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 3",
-                        "ref": "2-3/Star 3/Star 3",
+                        "name": "Ripple Field 3 - Star 3",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 4",
-                        "ref": "2-3/Star 4/Star 4",
+                        "name": "Ripple Field 3 - Star 4",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 2",
-                        "ref": "2-3/Star 2/Star 2",
+                        "name": "Ripple Field 3 - Star 2",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 5 (Block)",
-                        "ref": "2-3/Star 5 (Block)/Star 5",
+                        "name": "Ripple Field 3 - Star 5 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 10",
-                        "ref": "2-3/Star 10/Star 10",
+                        "name": "Ripple Field 3 - Star 10",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 11",
-                        "ref": "2-3/Star 11/Star 11",
+                        "name": "Ripple Field 3 - Star 11",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 9",
-                        "ref": "2-3/Star 9/Star 9",
+                        "name": "Ripple Field 3 - Star 9",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 6",
-                        "ref": "2-3/Star 6/Star 6",
+                        "name": "Ripple Field 3 - Star 6",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 7",
-                        "ref": "2-3/Star 7/Star 7",
+                        "name": "Ripple Field 3 - Star 7",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 8",
-                        "ref": "2-3/Star 8/Star 8",
+                        "name": "Ripple Field 3 - Star 8",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 15 (bottom)",
-                        "ref": "2-3/Star 15 (bottom)/Star 15",
+                        "name": "Ripple Field 3 - Star 15 (bottom)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 18 (bottom)",
-                        "ref": "2-3/Star 18 (bottom)/Star 18",
+                        "name": "Ripple Field 3 - Star 18 (bottom)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 19",
-                        "ref": "2-3/Star 19/Star 19",
+                        "name": "Ripple Field 3 - Star 19 (middle)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 20",
-                        "ref": "2-3/Star 20/Star 20",
+                        "name": "Ripple Field 3 - Star 20 (middle)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 21",
-                        "ref": "2-3/Star 21/Star 21",
+                        "name": "Ripple Field 3 - Star 21 (middle)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 17 (Block)",
-                        "ref": "2-3/Star 17 (Block)/Star 17",
+                        "name": "Ripple Field 3 - Star 17 (Block) (top)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 16 (Block)",
-                        "ref": "2-3/Star 16 (Block)/Star 16",
+                        "name": "Ripple Field 3 - Star 16 (Block) (top)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 14",
-                        "ref": "2-3/Star 14/Star 14",
+                        "name": "Ripple Field 3 - Star 14",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 12",
-                        "ref": "2-3/Star 12/Star 12",
+                        "name": "Ripple Field 3 - Star 12",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 13",
-                        "ref": "2-3/Star 13/Star 13",
+                        "name": "Ripple Field 3 - Star 13",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                 ],
                 "map_locations": [
@@ -438,7 +553,7 @@
                         ]
                     },
                     {
-                        "name": "Stars",
+                        "name": "Ripple Field 4 - Stars",
                         "chest_unopened_img": "images/StarLarge.png",
                         "chest_opened_img": "images/StarLargeDim.png",
                         "clear_as_group": false,
@@ -447,208 +562,310 @@
                         "item_count": 51
                     },
                     {
-                        "name": "Star 5",
-                        "ref": "2-4/Star 5/Star 5",
+                        "name": "Ripple Field 4 - Star 5",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 4",
-                        "ref": "2-4/Star 4/Star 4",
+                        "name": "Ripple Field 4 - Star 4",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 3",
-                        "ref": "2-4/Star 3/Star 3",
+                        "name": "Ripple Field 4 - Star 3",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 2",
-                        "ref": "2-4/Star 2/Star 2",
+                        "name": "Ripple Field 4 - Star 2",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 1",
-                        "ref": "2-4/Star 1/Star 1",
+                        "name": "Ripple Field 4 - Star 1",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 6",
-                        "ref": "2-4/Star 6/Star 6",
+                        "name": "Ripple Field 4 - Star 6",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 7",
-                        "ref": "2-4/Star 7/Star 7",
+                        "name": "Ripple Field 4 - Star 7",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 44 (Dark Room)",
-                        "ref": "2-4/Stars 44-51 (Dark Room)/Star 44",
+                        "name": "Ripple Field 4 - Star 44 (Dark Room)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 45 (Dark Room)",
-                        "ref": "2-4/Stars 44-51 (Dark Room)/Star 45",
+                        "name": "Ripple Field 4 - Star 45 (Dark Room)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 46 (Dark Room)",
-                        "ref": "2-4/Stars 44-51 (Dark Room)/Star 46",
+                        "name": "Ripple Field 4 - Star 46 (Dark Room)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 47 (Dark Room)",
-                        "ref": "2-4/Stars 44-51 (Dark Room)/Star 47",
+                        "name": "Ripple Field 4 - Star 47 (Dark Room)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 48 (Dark Room)",
-                        "ref": "2-4/Stars 44-51 (Dark Room)/Star 48",
+                        "name": "Ripple Field 4 - Star 48 (Dark Room)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 49 (Dark Room)",
-                        "ref": "2-4/Stars 44-51 (Dark Room)/Star 49",
+                        "name": "Ripple Field 4 - Star 49 (Dark Room)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 50 (Dark Room)",
-                        "ref": "2-4/Stars 44-51 (Dark Room)/Star 50",
+                        "name": "Ripple Field 4 - Star 50 (Dark Room)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 51 (Dark Room)",
-                        "ref": "2-4/Stars 44-51 (Dark Room)/Star 51",
+                        "name": "Ripple Field 4 - Star 51 (Dark Room)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 26 (Block)",
-                        "ref": "2-4/Star 26 (Block)/Star 26",
+                        "name": "Ripple Field 4 - Star 26 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 27 (Block)",
-                        "ref": "2-4/Star 27 (Block)/Star 27",
+                        "name": "Ripple Field 4 - Star 27 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 28 (Block)",
-                        "ref": "2-4/Star 28 (Block)/Star 28",
+                        "name": "Ripple Field 4 - Star 28 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 23",
-                        "ref": "2-4/Star 23/Star 23",
+                        "name": "Ripple Field 4 - Star 23",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 22",
-                        "ref": "2-4/Star 22/Star 22",
+                        "name": "Ripple Field 4 - Star 22",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 24",
-                        "ref": "2-4/Star 24/Star 24",
+                        "name": "Ripple Field 4 - Star 24",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 25",
-                        "ref": "2-4/Star 25/Star 25",
+                        "name": "Ripple Field 4 - Star 25",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 15",
-                        "ref": "2-4/Stars 15-21/Star 15",
+                        "name": "Ripple Field 4 - Star 15",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 16",
-                        "ref": "2-4/Stars 15-21/Star 16",
+                        "name": "Ripple Field 4 - Star 16",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 17",
-                        "ref": "2-4/Stars 15-21/Star 17",
+                        "name": "Ripple Field 4 - Star 17",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 18",
-                        "ref": "2-4/Stars 15-21/Star 18",
+                        "name": "Ripple Field 4 - Star 18",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 19",
-                        "ref": "2-4/Stars 15-21/Star 19",
+                        "name": "Ripple Field 4 - Star 19",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 20",
-                        "ref": "2-4/Stars 15-21/Star 20",
+                        "name": "Ripple Field 4 - Star 20",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 21",
-                        "ref": "2-4/Stars 15-21/Star 21",
+                        "name": "Ripple Field 4 - Star 21",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 8",
-                        "ref": "2-4/Stars 8-14/Star 8",
+                        "name": "Ripple Field 4 - Star 8",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 9",
-                        "ref": "2-4/Stars 8-14/Star 9",
+                        "name": "Ripple Field 4 - Star 9",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 10",
-                        "ref": "2-4/Stars 8-14/Star 10",
+                        "name": "Ripple Field 4 - Star 10",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 11",
-                        "ref": "2-4/Stars 8-14/Star 11",
+                        "name": "Ripple Field 4 - Star 11",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 12",
-                        "ref": "2-4/Stars 8-14/Star 12",
+                        "name": "Ripple Field 4 - Star 12",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 13",
-                        "ref": "2-4/Stars 8-14/Star 13",
+                        "name": "Ripple Field 4 - Star 13",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 14",
-                        "ref": "2-4/Stars 8-14/Star 14",
+                        "name": "Ripple Field 4 - Star 14",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 29",
-                        "ref": "2-4/Star 29/Star 29",
+                        "name": "Ripple Field 4 - Star 29",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 30",
-                        "ref": "2-4/Star 30/Star 30",
+                        "name": "Ripple Field 4 - Star 30",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 31",
-                        "ref": "2-4/Star 31/Star 31",
+                        "name": "Ripple Field 4 - Star 31",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 32",
-                        "ref": "2-4/Star 32/Star 32",
+                        "name": "Ripple Field 4 - Star 32",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 33",
-                        "ref": "2-4/Star 33/Star 33",
+                        "name": "Ripple Field 4 - Star 33",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 34",
-                        "ref": "2-4/Star 34/Star 34",
+                        "name": "Ripple Field 4 - Star 34",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 35",
-                        "ref": "2-4/Star 35/Star 35",
+                        "name": "Ripple Field 4 - Star 35",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 36",
-                        "ref": "2-4/Star 36/Star 36",
+                        "name": "Ripple Field 4 - Star 36",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 37",
-                        "ref": "2-4/Star 37/Star 37",
+                        "name": "Ripple Field 4 - Star 37",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 38",
-                        "ref": "2-4/Star 38/Star 38",
+                        "name": "Ripple Field 4 - Star 38",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 39",
-                        "ref": "2-4/Star 39/Star 39",
+                        "name": "Ripple Field 4 - Star 39",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 40",
-                        "ref": "2-4/Star 40/Star 40",
+                        "name": "Ripple Field 4 - Star 40",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 41",
-                        "ref": "2-4/Star 41/Star 41",
+                        "name": "Ripple Field 4 - Star 41",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 42",
-                        "ref": "2-4/Star 42/Star 42",
+                        "name": "Ripple Field 4 - Star 42",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 43",
-                        "ref": "2-4/Star 43/Star 43",
+                        "name": "Ripple Field 4 - Star 43",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                 ],
                 "map_locations": [
@@ -717,7 +934,7 @@
                         ]
                     },
                     {
-                        "name": "Stars",
+                        "name": "Ripple Field 5 - Stars",
                         "chest_unopened_img": "images/StarLarge.png",
                         "chest_opened_img": "images/StarLargeDim.png",
                         "clear_as_group": false,
@@ -726,208 +943,339 @@
                         "item_count": 51
                     },
                     {
-                        "name": "Star 6",
-                        "ref": "2-5/Star 6/Star 6",
+                        "name": "Ripple Field 5 - Star 6",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 1",
-                        "ref": "2-5/Star 1/Star 1",
+                        "name": "Ripple Field 5 - Star 1",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 2",
-                        "ref": "2-5/Star 2/Star 2",
+                        "name": "Ripple Field 5 - Star 2",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 3",
-                        "ref": "2-5/Star 3/Star 3",
+                        "name": "Ripple Field 5 - Star 3",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 4",
-                        "ref": "2-5/Star 4/Star 4",
+                        "name": "Ripple Field 5 - Star 4",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 5",
-                        "ref": "2-5/Star 5/Star 5",
+                        "name": "Ripple Field 5 - Star 5",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 18",
-                        "ref": "2-5/Star 18/Star 18",
+                        "name": "Ripple Field 5 - Star 18",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 19",
-                        "ref": "2-5/Star 19/Star 19",
+                        "name": "Ripple Field 5 - Star 19",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 20",
-                        "ref": "2-5/Star 20/Star 20",
+                        "name": "Ripple Field 5 - Star 20",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 21",
-                        "ref": "2-5/Star 21/Star 21",
+                        "name": "Ripple Field 5 - Star 21",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 22",
-                        "ref": "2-5/Star 22/Star 22",
+                        "name": "Ripple Field 5 - Star 22",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 23",
-                        "ref": "2-5/Star 23/Star 23",
+                        "name": "Ripple Field 5 - Star 23",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 24",
-                        "ref": "2-5/Star 24/Star 24",
+                        "name": "Ripple Field 5 - Star 24",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 25",
-                        "ref": "2-5/Star 25/Star 25",
+                        "name": "Ripple Field 5 - Star 25",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 26",
-                        "ref": "2-5/Star 26/Star 26",
+                        "name": "Ripple Field 5 - Star 26",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 27",
-                        "ref": "2-5/Star 27/Star 27",
+                        "name": "Ripple Field 5 - Star 27",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 28",
-                        "ref": "2-5/Star 28/Star 28",
+                        "name": "Ripple Field 5 - Star 28",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 29",
-                        "ref": "2-5/Star 29/Star 29",
+                        "name": "Ripple Field 5 - Star 29",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 30",
-                        "ref": "2-5/Star 30/Star 30",
+                        "name": "Ripple Field 5 - Star 30",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 31",
-                        "ref": "2-5/Star 31/Star 31",
+                        "name": "Ripple Field 5 - Star 31",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 38",
-                        "ref": "2-5/Star 38/Star 38",
+                        "name": "Ripple Field 5 - Star 38",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 39",
-                        "ref": "2-5/Star 39/Star 39",
+                        "name": "Ripple Field 5 - Star 39",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 40",
-                        "ref": "2-5/Star 40/Star 40",
+                        "name": "Ripple Field 5 - Star 40",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 41",
-                        "ref": "2-5/Star 41/Star 41",
+                        "name": "Ripple Field 5 - Star 41",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 42",
-                        "ref": "2-5/Star 42/Star 42",
+                        "name": "Ripple Field 5 - Star 42",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 50",
-                        "ref": "2-5/Star 50/Star 50",
+                        "name": "Ripple Field 5 - Star 50",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 51",
-                        "ref": "2-5/Star 51/Star 51",
+                        "name": "Ripple Field 5 - Star 51",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 46 (Stone Block (Burning))",
-                        "ref": "2-5/Star 46 (Stone Block (Burning))/Star 46",
+                        "name": "Ripple Field 5 - Star 46 (Stone Block (Burning))",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Burning,Stone,Kine"]
                     },
                     {
-                        "name": "Star 47 (Stone Block (Burning))",
-                        "ref": "2-5/Star 47 (Stone Block (Burning))/Star 47",
+                        "name": "Ripple Field 5 - Star 47 (Stone Block (Burning))",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Burning,Stone,Kine"]
                     },
                     {
-                        "name": "Star 48 (Stone Block (Burning))",
-                        "ref": "2-5/Star 48 (Stone Block (Burning))/Star 48",
+                        "name": "Ripple Field 5 - Star 48 (Stone Block (Burning))",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Burning,Stone,Kine"]
                     },
                     {
-                        "name": "Star 49 (Block)",
-                        "ref": "2-5/Star 49 (Block)/Star 49",
+                        "name": "Ripple Field 5 - Star 49 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 32",
-                        "ref": "2-5/Star 32/Star 32",
+                        "name": "Ripple Field 5 - Star 32",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 33",
-                        "ref": "2-5/Star 33/Star 33",
+                        "name": "Ripple Field 5 - Star 33",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 34",
-                        "ref": "2-5/Star 34/Star 34",
+                        "name": "Ripple Field 5 - Star 34",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 35",
-                        "ref": "2-5/Star 35/Star 35",
+                        "name": "Ripple Field 5 - Star 35",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 36",
-                        "ref": "2-5/Star 36/Star 36",
+                        "name": "Ripple Field 5 - Star 36",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 37",
-                        "ref": "2-5/Star 37/Star 37",
+                        "name": "Ripple Field 5 - Star 37",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 7",
-                        "ref": "2-5/Star 7/Star 7",
+                        "name": "Ripple Field 5 - Star 7",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 8",
-                        "ref": "2-5/Star 8/Star 8",
+                        "name": "Ripple Field 5 - Star 8",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 9",
-                        "ref": "2-5/Star 9/Star 9",
+                        "name": "Ripple Field 5 - Star 9",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 10",
-                        "ref": "2-5/Star 10/Star 10",
+                        "name": "Ripple Field 5 - Star 10",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 11",
-                        "ref": "2-5/Star 11/Star 11",
+                        "name": "Ripple Field 5 - Star 11",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 12",
-                        "ref": "2-5/Star 12/Star 12",
+                        "name": "Ripple Field 5 - Star 12",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 13",
-                        "ref": "2-5/Star 13/Star 13",
+                        "name": "Ripple Field 5 - Star 13",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 14",
-                        "ref": "2-5/Star 14/Star 14",
+                        "name": "Ripple Field 5 - Star 14",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 15",
-                        "ref": "2-5/Star 15/Star 15",
+                        "name": "Ripple Field 5 - Star 15",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 16",
-                        "ref": "2-5/Star 16/Star 16",
+                        "name": "Ripple Field 5 - Star 16",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 17",
-                        "ref": "2-5/Star 17/Star 17",
+                        "name": "Ripple Field 5 - Star 17",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 43",
-                        "ref": "2-5/Star 43/Star 43",
+                        "name": "Ripple Field 5 - Star 43",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 45",
-                        "ref": "2-5/Star 45/Star 45",
+                        "name": "Ripple Field 5 - Star 45",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                     {
-                        "name": "Star 44",
-                        "ref": "2-5/Star 44/Star 44",
+                        "name": "Ripple Field 5 - Star 44",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"],
+                        "access_rules": ["Kine"]
                     },
                 ],
                 "map_locations": [
@@ -953,7 +1301,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Stars",
+                        "name": "Ripple Field 6 - Stars",
                         "chest_unopened_img": "images/StarLarge.png",
                         "chest_opened_img": "images/StarLargeDim.png",
                         "clear_as_group": false,
@@ -962,96 +1310,142 @@
                         "item_count": 23
                     },
                     {
-                        "name": "Star 8 (Block)",
-                        "ref": "2-6/Star 8 (Block)/Star 8",
+                        "name": "Ripple Field 6 - Star 8 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 9 (Block)",
-                        "ref": "2-6/Star 9 (Block)/Star 9",
+                        "name": "Ripple Field 6 - Star 9 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 10 (Block)",
-                        "ref": "2-6/Star 10 (Block)/Star 10",
+                        "name": "Ripple Field 6 - Star 10 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 11 (Block)",
-                        "ref": "2-6/Star 11 (Block)/Star 11",
+                        "name": "Ripple Field 6 - Star 11 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 12 (Block)",
-                        "ref": "2-6/Star 12 (Block)/Star 12",
+                        "name": "Ripple Field 6 - Star 12 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 13 (Block)",
-                        "ref": "2-6/Star 13 (Block)/Star 13",
+                        "name": "Ripple Field 6 - Star 13 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 14 (Block)",
-                        "ref": "2-6/Star 14 (Block)/Star 14",
+                        "name": "Ripple Field 6 - Star 14 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 7 (Block)",
-                        "ref": "2-6/Star 7 (Block)/Star 7",
+                        "name": "Ripple Field 6 - Star 7 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 5 (Block)",
-                        "ref": "2-6/Star 5 (Block)/Star 5",
+                        "name": "Ripple Field 6 - Star 5 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 1 (Block)",
-                        "ref": "2-6/Star 1 (Block)/Star 1",
+                        "name": "Ripple Field 6 - Star 1 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 3 (Block)",
-                        "ref": "2-6/Star 3 (Block)/Star 3",
+                        "name": "Ripple Field 6 - Star 3 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 4",
-                        "ref": "2-6/Star 4/Star 4",
+                        "name": "Ripple Field 6 - Star 4",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 2 (Block)",
-                        "ref": "2-6/Star 2 (Block)/Star 2",
+                        "name": "Ripple Field 6 - Star 2 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 6 (Block)",
-                        "ref": "2-6/Star 6 (Block)/Star 6",
+                        "name": "Ripple Field 6 - Star 6 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 15 (Block)",
-                        "ref": "2-6/Star 15 (Block)/Star 15",
+                        "name": "Ripple Field 6 - Star 15 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 16 (Block)",
-                        "ref": "2-6/Star 16 (Block)/Star 16",
+                        "name": "Ripple Field 6 - Star 16 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 19 (Block)",
-                        "ref": "2-6/Star 19 (Block)/Star 19",
+                        "name": "Ripple Field 6 - Star 19 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 17 (Block)",
-                        "ref": "2-6/Star 17 (Block)/Star 17",
+                        "name": "Ripple Field 6 - Star 17 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 18 (Block)",
-                        "ref": "2-6/Star 18 (Block)/Star 18",
+                        "name": "Ripple Field 6 - Star 18 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 22 (Block)",
-                        "ref": "2-6/Star 22 (Block)/Star 22",
+                        "name": "Ripple Field 6 - Star 22 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 21 (Block)",
-                        "ref": "2-6/Star 21 (Block)/Star 21",
+                        "name": "Ripple Field 6 - Star 21 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 20 (Block)",
-                        "ref": "2-6/Star 20 (Block)/Star 20",
+                        "name": "Ripple Field 6 - Star 20 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                     {
-                        "name": "Star 23 (Block)",
-                        "ref": "2-6/Star 23 (Block)/Star 23",
+                        "name": "Ripple Field 6 - Star 23 (Block)",
+                        "chest_unopened_img": "images/StarSmall.png",
+                        "chest_opened_img": "images/StarSmallDim.png",
+                        "visibility_rules": ["Starsanity"]
                     },
                 ],
                 "map_locations": [

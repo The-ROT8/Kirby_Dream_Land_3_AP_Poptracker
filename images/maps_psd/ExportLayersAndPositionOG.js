@@ -23,7 +23,6 @@ function main(){
 	//create individual level file
 	var file = new File(path + "/" + levelID + ".json");
 	file.open("w", "TEXT", "????");
-	$.os.search(/windows/i)	!= -1 ? file.lineFeed = 'windows' : file.lineFeed = 'macintosh';
 	
 	//create or open overview world file
 	var worldFile = new File(path + "/level" + worldID + ".json");
@@ -31,7 +30,7 @@ function main(){
 		worldFile.open("w", "TEXT", "????");
 		var worldFileHeader = '[';
 		worldFileHeader += '\n\t{';
-		worldFileHeader += '\n\t\t"name": "Level ' + worldID + '",';
+		worldFileHeader += '\n\t\t"name": "Level ' + worldID ;//+ ': ' + arrWorlds[worldID] + '"';
 		worldFileHeader += '\n\t\t"children": [';
 		worldFile.writeln(tabsToSpaces(worldFileHeader));
 	}
@@ -63,6 +62,8 @@ function main(){
 		locationsFile.open("a", "TEXT", "????");
 	}
 	locationsFile.writeln("-- " + levelID);
+	$.os.search(/windows/i)	!= -1 ? file.lineFeed = 'windows' : file.lineFeed = 'macintosh';
+	//This is not my code, but it feels smart. Gonna leave it until I feel ready to test without it.
 	var locationCount = Info.length;
 	var locationHeader = '[';
 	locationHeader += '\n\t{';
@@ -71,7 +72,6 @@ function main(){
 	locationHeader += '\n\t\t[';
 	file.writeln(tabsToSpaces(locationHeader));
 	
-	//Main Loop
 	var i = 0;
 	for(var a in Info) { 
 		//loop over each layer. Each layer is a child of the level and represents a location square.
@@ -99,12 +99,12 @@ function main(){
 		locationString += '\n\t\t\t\t"name": "' + sectionName + '",';
 		
 		// We can add access/visibility/icon rules here for whole squares if all/most items share
-		// We probably won't because A FEW TIMES it overlaps with consumables (this was a lie lol)
+		// We probably won't because A FEW TIMES it overlaps with consumables
 		if (starCheck) {
-			// locationString += '\n\t\t\t\t"chest_unopened_img": "images/StarSmall.png",';
-			// locationString += '\n\t\t\t\t"chest_opened_img": "images/StarSmallDim.png",';
-			// locationString += '\n\t\t\t\t"visibility_rules": ["Starsanity"],';
-			// locationString += buildAccessList(locationName, levelID);
+			locationString += '\n\t\t\t\t"chest_unopened_img": "images/StarSmall.png",';
+			locationString += '\n\t\t\t\t"chest_opened_img": "images/StarSmallDim.png",';
+			locationString += '\n\t\t\t\t"visibility_rules": ["Starsanity"],';
+			locationString += buildAccessList(locationName, levelID);
 		}
 /*
 		if (locationName.indexOf('Tomato') >= 0) {
@@ -121,47 +121,41 @@ function main(){
 		}
 */
 		
+		
 		// Start map location block: defines where the square appears
-		var mapBlock = "";
-		mapBlock += '\n\t\t\t\t"map_locations":';
-		mapBlock += '\n\t\t\t\t[';
-		mapBlock += '\n\t\t\t\t\t{';
-		mapBlock += '\n\t\t\t\t\t\t"map": "' + levelID + '",';
-		mapBlock += '\n\t\t\t\t\t\t"x": ' + locationX + ',';
-		mapBlock += '\n\t\t\t\t\t\t"y": ' + locationY + '';
-		mapBlock += '\n\t\t\t\t\t}';
-		mapBlock += '\n\t\t\t\t],';
-		locationString += mapBlock;
+		locationString += '\n\t\t\t\t"map_locations":';
+		locationString += '\n\t\t\t\t[';
+		locationString += '\n\t\t\t\t\t{';
+		locationString += '\n\t\t\t\t\t\t"map": "' + levelID + '",';
+		locationString += '\n\t\t\t\t\t\t"x": ' + locationX + ',';
+		locationString += '\n\t\t\t\t\t\t"y": ' + locationY + '';
+		locationString += '\n\t\t\t\t\t}';
+		locationString += '\n\t\t\t\t],';
 		// End map location block
-
 		// "sections" is an array of individual items/checks inside the location square
 		// this is where we parse layers into individual stars/items
 		locationString += '\n\t\t\t\t"sections":';
 		locationString += '\n\t\t\t\t['; //open sections array
 		//theoretical loop start
 		if (starCheck) { //Starts with 'star', check for parse method
-			var checkSuffix = '';
-			if (locationName.indexOf('(') != -1 ) {
-				checkSuffix = ' ' + locationName.substr(locationName.indexOf('('),locationName.length);
-			}
 			var starList = locationName.split(' ')[1];
 			if (starList.indexOf('-') != -1) { //range of stars, iterate
 				var starRange = starList.split('-');
 				var startID = +starRange[0];
 				var endID = +starRange[1];
 				for (j = startID; j <= endID; j++) {
-					var itemName = 'Star ' + j + checkSuffix;
+					var itemName = 'Star ' + j;
 					locationString += addLocation(itemName, (j < endID));
-					worldFileContent += addOverworldLocation(locationName, itemName, sectionName, (j < endID));
+					worldFileContent += addOverworldLocation(itemName, sectionName, (j < endID));
 					locationsFile.writeln(createStarLocation(levelID, sectionName, itemName));
 				}
 			} //end of -range condition
 			else { //single star or comma delimited list
 				var starIDs = starList.split(',');
 				for(j = 0; j < starIDs.length; j++) {
-					var itemName = 'Star ' + starIDs[j] + checkSuffix;
+					var itemName = 'Star ' + starIDs[j];
 					locationString += addLocation(itemName, (j+1 < starIDs.length));
-					worldFileContent += addOverworldLocation(locationName, itemName, sectionName, (j+1 < starIDs.length));
+					worldFileContent += addOverworldLocation(itemName, sectionName, (j+1 < starIDs.length));
 					locationsFile.writeln(createStarLocation(levelID, sectionName, itemName));
 				}
 			}
@@ -276,34 +270,28 @@ function addLocation(locationName, notLast) {
 	locationString += '\n\t\t\t\t\t{'; //open check
 	locationString += '\n\t\t\t\t\t\t"name": "' + locationName + '"';
 	//locationString += '\n\t\t\t\t\t\t"item_count": 1';
-	// if (locationName.indexOf('Tomato') >= 0 || locationName.indexOf('1-Up') >= 0) {
+	if (locationName.indexOf('Tomato') >= 0 || locationName.indexOf('1-Up') >= 0) {
 		locationString += ',\n\t\t\t\t\t\t"ref": "' + 'Level ' + levelID.substr(0,1) + '/' + levelID + '/' + wholeLevel + " - " + locationName + '"';
-	// }
+	}
 	locationString += '\n\t\t\t\t\t}'; //close check
 	if (notLast) { locationString += ',' }
 	
 	return locationString;
 }
 
-function addOverworldLocation(locationName, itemName, sectionName, notLast) {
+function addOverworldLocation(locationName, sectionName, notLast) {
 	var locationString = "";
 	locationString += '\n\t\t\t\t\t{'; //open check
 	//locationString += '\n\t\t\t\t\t\t"name": "' + locationName + '",';
 	var checkName = sectionName;
 	if (sectionName.indexOf('-') >= 0 || sectionName.indexOf(',') >= 0) {
-		checkName = itemName;
-		// if (sectionName.indexOf('(') >=0) {
-		// 	checkName += ' ' + sectionName.substring(sectionName.indexOf('('),sectionName.lastIndexOf(')')+1);
-		// }
+		checkName = locationName;
+		if (sectionName.indexOf('(') >=0) {
+			checkName += ' ' + sectionName.substring(sectionName.indexOf('('),sectionName.lastIndexOf(')')+1);
+		}
 	}
-	// locationString += '\n\t\t\t\t\t\t"name": "' + checkName + '",';
-	locationString += '\n\t\t\t\t\t\t"name": "' + wholeLevel + ' - ' + checkName + '",';
-	// locationString += '\n\t\t\t\t\t\t"ref": "' + levelID + '/' + sectionName + '/' + locationName + '",';
-	locationString += '\n\t\t\t\t\t\t"chest_unopened_img": "images/StarSmall.png",';
-	locationString += '\n\t\t\t\t\t\t"chest_opened_img": "images/StarSmallDim.png",';
-	locationString += '\n\t\t\t\t\t\t"visibility_rules": ["Starsanity"]';
-	var accessList = buildAccessList(locationName, levelID);
-	if (accessList != '') { locationString += ',' + accessList}
+	locationString += '\n\t\t\t\t\t\t"name": "' + checkName + '",';
+	locationString += '\n\t\t\t\t\t\t"ref": "' + levelID + '/' + sectionName + '/' + locationName + '",';
 	//locationString += '\n\t\t\t\t\t\t"item_count": 1';
 	locationString += '\n\t\t\t\t\t}'; //close check
 	//if (notLast) { locationString += ',' }
@@ -347,11 +335,11 @@ function buildAccessList(locationName, levelID) {
 			break;
 		case '3-5':
 			if ( locationName.indexOf('(Ice)') != -1 ) {
-				returnString = '\n\t\t\t\t\t\t"access_rules":';
-				returnString += '\n\t\t\t\t\t\t[';
-				returnString += '\n\t\t\t\t\t\t\t' + '"Ice,Rick","Ice,Coo","Ice,Nago","Ice,ChuChu","Ice,Pitch",';
-				returnString += '\n\t\t\t\t\t\t\t' + '"[Rick],[Coo],[Nago],[ChuChu],[Pitch],Ice,Kine"';
-				returnString += '\n\t\t\t\t\t\t]'; //trailing comma
+				returnString = '\n\t\t\t\t"access_rules":';
+				returnString += '\n\t\t\t\t[';
+				returnString += '\n\t\t\t\t\t' + '"Ice,Rick","Ice,Coo","Ice,Nago","Ice,ChuChu","Ice,Pitch",';
+				returnString += '\n\t\t\t\t\t' + '"[Rick],[Coo],[Nago],[ChuChu],[Pitch],Ice,Kine"';
+				returnString += '\n\t\t\t\t],';
 				return returnString;
 			}
 			if ( locationName.indexOf('Star') != -1 ) {
@@ -375,9 +363,9 @@ function buildAccessList(locationName, levelID) {
 			break;
 		case '4-6':
 			if (locationName.indexOf('Burning') >= 0) {
-				returnString = '\n\t\t\t\t\t\t"access_rules": ';
+				returnString = '\n\t\t\t\t"access_rules": ';
 				//returnString += '["Ice","[Ice],Burning"],';
-				returnString += '["Burning"]'; //trailing comma
+				returnString += '["Burning"],';
 				return returnString;
 			}
 			break;
@@ -388,35 +376,28 @@ function buildAccessList(locationName, levelID) {
 			break;
 	}
 	if (arrAccessList.length > 0) {
-		returnString += '\n\t\t\t\t\t\t"access_rules": ["' + arrAccessList.toString() + '"';
+		returnString += '\n\t\t\t\t"access_rules": ["' + arrAccessList.toString() + '"';
 		if (yellowAccess != '') {
 				returnString += ',' + yellowAccess;
 		}
-		// returnString +='],'; //I don't think we'll need the trailing comma but leaving as a reminder
-		returnString +=']';
+		returnString +='],';
 	}
 	return returnString;
 }
 
 function createStarLocation(map, square, item) {
-	//var format = '{"@Level 1/1-1/Grass Land 1 - Star 1","@Level 1/1-1/Stars"}';
-	var format = '    [%5]={"@Level %1/%2/%3","@Level %1/%2/%4 - Stars"},';
+	//var format = '{"@Level 1/1-1/Loose Stars","@Level 1/1-1/Grass Land 1 - Star 1"}';
+	var format = '    [%5]={"@%2/%3/%4","@Level %1/%2/Stars"},';
 	var world = map.slice(0,1);
 	var starray = [];
 	fillStarray(starray);
-	format = format.replace('%1',worldID);
-	format = format.replace('%1',worldID);
-	format = format.replace('%2',levelID);
-	format = format.replace('%2',levelID);
+	format = format.replace('%1',world);
+	format = format.replace('%2',map);
+	format = format.replace('%2',map);
 	//.replaceAll() I think doesn't work in PS. You can try again though
-	// format = format.replace('%3',square);
-	format = format.replace('%3',wholeLevel + ' - ' + item);
-	format = format.replace('%4',wholeLevel);
-	var starrayItemLookup = item;
-	if (starrayItemLookup.indexOf(' (') != -1) {
-		starrayItemLookup = starrayItemLookup.slice(0,starrayItemLookup.indexOf(' ('));
-	}
-	format = format.replace('%5',starray[map + ' ' + starrayItemLookup]);
+	format = format.replace('%3',square);
+	format = format.replace('%4',item);
+	format = format.replace('%5',starray[map + ' ' + item]);
 	return format;
 }
 

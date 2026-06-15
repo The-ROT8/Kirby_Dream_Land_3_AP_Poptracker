@@ -5,10 +5,6 @@
         [
             {
                 "name": "Star 1",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -20,16 +16,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 1"
+                        "name": "Star 1",
+                        "ref": "Level 5/5-4/Iceberg 4 - Star 1"
                     }
                 ]
             },
             {
                 "name": "Star 2",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -41,16 +34,13 @@
                 "sections":
                 [
                     {
-                        "name": "Star 2"
+                        "name": "Star 2",
+                        "ref": "Level 5/5-4/Iceberg 4 - Star 2"
                     }
                 ]
             },
             {
                 "name": "Star 3",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
-                "access_rules": ["Burning"],
                 "map_locations":
                 [
                     {
@@ -62,7 +52,8 @@
                 "sections":
                 [
                     {
-                        "name": "Star 3"
+                        "name": "Star 3",
+                        "ref": "Level 5/5-4/Iceberg 4 - Star 3"
                     }
                 ]
             }

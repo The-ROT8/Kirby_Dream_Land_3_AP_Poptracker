@@ -5,9 +5,6 @@
         [
             {
                 "name": "Star 1 (right)",
-                "chest_unopened_img": "images/StarSmall.png",
-                "chest_opened_img": "images/StarSmallDim.png",
-                "visibility_rules": ["Starsanity"],
                 "map_locations":
                 [
                     {
@@ -19,7 +16,8 @@
                 "sections":
                 [
                     {
-                        "name": "Star 1"
+                        "name": "Star 1 (right)",
+                        "ref": "Level 5/5-6/Iceberg 6 - Star 1 (right)"
                     }
                 ]
             },
