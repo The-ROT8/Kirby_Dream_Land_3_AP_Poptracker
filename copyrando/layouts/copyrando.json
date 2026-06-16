@@ -1,5 +1,5 @@
 {
-    "copyrando_grid": {
+    "copyrando_grid_v": {
         "type": "dock",
         "background": "#11FF0000",
         "dock": "right",
@@ -115,6 +115,110 @@
                                 "Blocky"
                             ],
                             [
+                                "JumperShoot",
+                                "Boboo",
+                                "Haboki"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "copyrando_grid_h": {
+        "type": "dock",
+        "background": "#11FF0000",
+        "dock": "right",
+        "content": [
+            {
+                "type": "dock",
+                "dock": "right",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        //"item_size": "24",
+                        "h_alignment": "center",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "rows": [
+                            [
+                                "WaddleDee",
+                                "BrontoBurt",
+                                "Rocky",
+                                "Bobo",
+                                "Chilly",
+                                "PoppyBrosJr",
+                                "Sparky",
+                                "Polof",
+                                "BroomHatter",
+                                "Cappy",
+                                "Bouncy",
+                                "Nruff",
+                                "Glunk",
+                                "Togezo",
+                                "Kabu",
+                                "Mony",
+                                "Blipper",
+                                "Squishy",
+                                "Gabon",
+                                "Oro",
+                                "Galbo"
+                            ],
+                            [
+                                "SirKibble",
+                                "Nidoo",
+                                "Kany",
+                                "Sasuke",
+                                "Yaban",
+                                "Boten",
+                                "Coconut",
+                                "Doka",
+                                "Icicle",
+                                "Pteran",
+                                "Loud",
+                                "Como",
+                                "Klinko",
+                                "Babut",
+                                "Wappa",
+                                "Mariel",
+                                "Tick",
+                                "Apolo",
+                                "PoponBall"
+                            ],
+                            [
+                                "KeKe",
+                                "Magoo",
+                                "RaftWaddleDee",
+                                "Madoo",
+                                "Corori",
+                                "Kapar",
+                                "Batamon",
+                                "Peran",
+                                "Bobin",
+                                "Mopoo",
+                                "Gansan",
+                                "Dekabu",
+                                "Wapod",
+                                "Propeller",
+                                "Dogon",
+                                "Joe"
+                            ],
+                            [
+                                "WaddleDeeDrawing",
+                                "BrontoBurtDrawing",
+                                "BouncyDrawing",
+                                "Bukiset(Burning)",
+                                "Bukiset(Stone)",
+                                "Bukiset(Ice)",
+                                "Bukiset(Needle)",
+                                "Bukiset(Clean)",
+                                "Bukiset(Parasol)",
+                                "Bukiset(Spark)",
+                                "Bukiset(Cutter)",
+                                "CaptainStitch",
+                                "Yuki",
+                                "Blocky",
                                 "JumperShoot",
                                 "Boboo",
                                 "Haboki"

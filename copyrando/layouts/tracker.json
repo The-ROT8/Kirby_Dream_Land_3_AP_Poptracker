@@ -1,5 +1,5 @@
 {
-    "tracker_default": {
+    "tracker_default_base": {
         "type": "container",
         "background": "#CEFFCE",
         "content": [
@@ -39,6 +39,57 @@
                                 "content": {
                                     "type": "layout",
                                     "key": "shared_item_grid"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tracker_default": {
+        "type": "container",
+        "background": "#CEFFCE",
+        "content": [
+            {
+                "type": "dock",
+                "dropshadow": true,
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "tabbedlayout",
+                        "max_height": 200
+                    },
+                    {
+                        "type": "dock",
+                        "dock": "bottom",
+                        "h_alignment": "stretch",
+                        "v_alignment": "stretch",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Copy Rando",
+                                "dock": "left",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "copyrando_grid_h"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "dock",
+                        "dock": "left",
+                        "h_alignment": "stretch",
+                        "v_alignment": "bottom",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Items",
+                                "dock": "top",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "shared_item_grid_v"
                                 }
                             }
                         ]

@@ -52,5 +52,60 @@
                 ]
             }
         ]
+    },
+    "shared_item_grid_v": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "rows": [
+                            [
+                                "Burning",
+                                "Stone",
+                                "Ice"
+                            ],
+                            [
+                                "Needle",
+                                "Clean",
+                                "Parasol"
+                            ],
+                            [
+                                "Spark",
+                                "Cutter"
+                            ],
+                            [
+                                "Rick",
+                                "Kine",
+                                "Coo"
+                            ],
+                            [
+                                "Nago",
+                                "Pitch",
+                                "ChuChu"
+                            ],
+                            [
+                                "Consumables",
+                                "Starsanity"
+                            ],
+                            [
+                                "Goal",
+                                "HeartStar"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 }
