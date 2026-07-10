@@ -5,17 +5,19 @@
         "children": [
             {
                 "name": "5-1",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Iceberg 1 - Complete",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Exit.png",
+                        "chest_opened_img": "images/ExitDim.png"
                     },
                     {
                         "name": "Iceberg 1 - Kogoesou",
                         "item_count": 1,
+                        "chest_unopened_img": "images/missions/5-1.png",
+                        "chest_opened_img": "images/missions/5-1Dim.png",
                         "access_rules": [
                             "Burning"
                         ]
@@ -64,7 +66,7 @@
                         "chest_unopened_img": "images/StarSmall.png",
                         "chest_opened_img": "images/StarSmallDim.png",
                         "visibility_rules": ["Starsanity"]
-                    },
+                    }
                 ],
                 "map_locations": [
                     {
@@ -76,17 +78,19 @@
             },
             {
                 "name": "5-2",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Iceberg 2 - Complete",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Exit.png",
+                        "chest_opened_img": "images/ExitDim.png"
                     },
                     {
                         "name": "Iceberg 2 - Samus",
                         "item_count": 1,
+                        "chest_unopened_img": "images/missions/5-2.png",
+                        "chest_opened_img": "images/missions/5-2Dim.png",
                         "access_rules": [
                             "Ice"
                         ]
@@ -213,7 +217,7 @@
                         "chest_unopened_img": "images/StarSmall.png",
                         "chest_opened_img": "images/StarSmallDim.png",
                         "visibility_rules": ["Starsanity"]
-                    },
+                    }
                 ],
                 "map_locations": [
                     {
@@ -225,17 +229,21 @@
             },
             {
                 "name": "5-3",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Iceberg 3 - Complete",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Exit.png",
+                        "chest_opened_img": "images/ExitDim.png"
                     },
                     {
                         "name": "Iceberg 3 - Chef Kawasaki",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/missions/5-3.png",
+                        "chest_opened_img": "images/missions/5-3Dim.png",
+                        "access_rules": [
+                        ]
                     },
                     {
                         "name": "Iceberg 3 - Maxim Tomato (Ceiling)",
@@ -382,7 +390,7 @@
                         "chest_unopened_img": "images/StarSmall.png",
                         "chest_opened_img": "images/StarSmallDim.png",
                         "visibility_rules": ["Starsanity"]
-                    },
+                    }
                 ],
                 "map_locations": [
                     {
@@ -394,13 +402,13 @@
             },
             {
                 "name": "5-4",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Iceberg 4 - Complete",
                         "item_count": 1,
+                        "chest_unopened_img": "images/Exit.png",
+                        "chest_opened_img": "images/ExitDim.png",
                         "access_rules":[
                             "Burning"
                         ]
@@ -408,6 +416,8 @@
                     {
                         "name": "Iceberg 4 - Name",
                         "item_count": 1,
+                        "chest_unopened_img": "images/missions/5-4.png",
+                        "chest_opened_img": "images/missions/5-4Dim.png",
                         "access_rules": [
                             "Coo,ChuChu,Burning"
                         ]
@@ -441,7 +451,7 @@
                         "chest_opened_img": "images/StarSmallDim.png",
                         "visibility_rules": ["Starsanity"],
                         "access_rules": ["Burning"]
-                    },
+                    }
                 ],
                 "map_locations": [
                     {
@@ -453,19 +463,19 @@
             },
             {
                 "name": "5-5",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Iceberg 5 - Complete",
                         "item_count": 1,
-                        "access_rules":[
-                        ]
+                        "chest_unopened_img": "images/Exit.png",
+                        "chest_opened_img": "images/ExitDim.png"
                     },
                     {
                         "name": "Iceberg 5 - Shiro",
                         "item_count": 1,
+                        "chest_unopened_img": "images/missions/5-5.png",
+                        "chest_opened_img": "images/missions/5-5Dim.png",
                         "access_rules": [
                             "Nago"
                         ]
@@ -715,7 +725,7 @@
                         "chest_unopened_img": "images/StarSmall.png",
                         "chest_opened_img": "images/StarSmallDim.png",
                         "visibility_rules": ["Starsanity"]
-                    },
+                    }
                 ],
                 "map_locations": [
                     {
@@ -727,17 +737,19 @@
             },            
             {
                 "name": "5-6",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Iceberg 6 - Complete",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Exit.png",
+                        "chest_opened_img": "images/ExitDim.png"
                     },
                     {
                         "name": "Iceberg 6 - Angel",
                         "item_count": 1,
+                        "chest_unopened_img": "images/missions/5-6.png",
+                        "chest_opened_img": "images/missions/5-6Dim2.png",
                         "access_rules":[
                             "Burning,Stone,Ice,Needle,Clean,Parasol,Spark,Cutter"
                         ]
@@ -778,7 +790,7 @@
                         "chest_unopened_img": "images/StarSmall.png",
                         "chest_opened_img": "images/StarSmallDim.png",
                         "visibility_rules": ["Starsanity"]
-                    },
+                    }
                 ],
                 "map_locations": [
                     {
@@ -790,13 +802,13 @@
             },
             {
                 "name": "5-7",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Iceberg - Boss (Dedede) Purified",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Dedede.png",
+                        "chest_opened_img": "images/DededeDim.png"
                     }
                 ],
                 "map_locations": [

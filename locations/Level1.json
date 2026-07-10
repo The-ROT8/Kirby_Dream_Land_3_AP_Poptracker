@@ -5,17 +5,19 @@
         "children": [
             {
                 "name": "1-1",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Grass Land 1 - Complete",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Exit.png",
+                        "chest_opened_img": "images/ExitDim.png"
                     },
                     {
                         "name": "Grass Land 1 - Tulip",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/missions/1-1.png",
+                        "chest_opened_img": "images/missions/1-1Dim.png"
                     },
                     {
                         "name": "Grass Land 1 - 1-Up (Parasol)",
@@ -194,7 +196,7 @@
                         "chest_unopened_img": "images/StarSmall.png",
                         "chest_opened_img": "images/StarSmallDim.png",
                         "visibility_rules": ["Starsanity"]
-                    },
+                    }
                 ],
                 "map_locations": [
                     {
@@ -206,17 +208,19 @@
             },
             {
                 "name": "1-2",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Grass Land 2 - Complete",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Exit.png",
+                        "chest_opened_img": "images/ExitDim.png"
                     },
                     {
                         "name": "Grass Land 2 - Muchimuchi",
                         "item_count": 1,
+                        "chest_unopened_img": "images/missions/1-2.png",
+                        "chest_opened_img": "images/missions/1-2Dim.png",
                         "access_rules": [
                             "ChuChu"
                         ]
@@ -373,7 +377,7 @@
                         "chest_unopened_img": "images/StarSmall.png",
                         "chest_opened_img": "images/StarSmallDim.png",
                         "visibility_rules": ["Starsanity"]
-                    },
+                    }
                 ],
                 "map_locations": [
                     {
@@ -385,17 +389,19 @@
             },
             {
                 "name": "1-3",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Grass Land 3 - Complete",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Exit.png",
+                        "chest_opened_img": "images/ExitDim.png"
                     },
                     {
                         "name": "Grass Land 3 - Pitcherman",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/missions/1-3.png",
+                        "chest_opened_img": "images/missions/1-3Dim.png"
                     },
                     {
                         "name": "Grass Land 3 - 1-Up (Climb)",
@@ -613,7 +619,7 @@
                         "chest_unopened_img": "images/StarSmall.png",
                         "chest_opened_img": "images/StarSmallDim.png",
                         "visibility_rules": ["Starsanity"]
-                    },
+                    }
                 ],
                 "map_locations": [
                     {
@@ -625,17 +631,19 @@
             },
             {
                 "name": "1-4",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Grass Land 4 - Complete",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Exit.png",
+                        "chest_opened_img": "images/ExitDim.png"
                     },
                     {
                         "name": "Grass Land 4 - Chao & Goku",
                         "item_count": 1,
+                        "chest_unopened_img": "images/missions/1-4.png",
+                        "chest_opened_img": "images/missions/1-4Dim.png",
                         "access_rules": [
                             "Stone"
                         ]
@@ -906,7 +914,7 @@
                         "chest_unopened_img": "images/StarSmall.png",
                         "chest_opened_img": "images/StarSmallDim.png",
                         "visibility_rules": ["Starsanity"]
-                    },
+                    }
                 ],
                 "map_locations": [
                     {
@@ -918,17 +926,19 @@
             },
             {
                 "name": "1-5",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Grass Land 5 - Complete",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Exit.png",
+                        "chest_opened_img": "images/ExitDim.png"
                     },
                     {
                         "name": "Grass Land 5 - Mine",
                         "item_count": 1,
+                        "chest_unopened_img": "images/missions/1-5.png",
+                        "chest_opened_img": "images/missions/1-5Dim.png",
                         "access_rules": [
                             "Kine"
                         ]
@@ -1115,7 +1125,7 @@
                         "chest_unopened_img": "images/StarSmall.png",
                         "chest_opened_img": "images/StarSmallDim.png",
                         "visibility_rules": ["Starsanity"]
-                    },
+                    }
                 ],
                 "map_locations": [
                     {
@@ -1127,17 +1137,19 @@
             },
             {
                 "name": "1-6",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Grass Land 6 - Complete",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Exit.png",
+                        "chest_opened_img": "images/ExitDim.png"
                     },
                     {
                         "name": "Grass Land 6 - Pierre",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/missions/1-6.png",
+                        "chest_opened_img": "images/missions/1-6Dim.png"
                     },
                     {
                         "name": "Grass Land 6 - 1-Up (Tower)",
@@ -1339,7 +1351,7 @@
                         "chest_unopened_img": "images/StarSmall.png",
                         "chest_opened_img": "images/StarSmallDim.png",
                         "visibility_rules": ["Starsanity"]
-                    },
+                    }
                 ],
                 "map_locations": [
                     {
@@ -1351,13 +1363,13 @@
             },
             {
                 "name": "1-7",
-                "access_rules": [
-                    //"11"
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Grass Land - Boss (Whispy Woods) Purified",
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Whispy.png",
+                        "chest_opened_img": "images/WhispyDim.png"
                     }
                 ],
                 "map_locations": [

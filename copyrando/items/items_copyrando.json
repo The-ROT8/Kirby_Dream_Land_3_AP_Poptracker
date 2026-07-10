@@ -3059,66 +3059,66 @@
             {
                 "name": "Madoo",
                 "codes": "Madoo",
-                "img": "images/Madoo.png",
+                "img": "images/MadooAlt.png",
                 "img_mods": "overlay|images/OLMinus.png",
-                "disabled_img": "images/Madoo.png",
+                "disabled_img": "images/MadooAlt.png",
                 "disabled_img_mods": "overlay|images/OLPlus.png"
             },
             {
                 "name": "Madoo Burning",
                 "codes": "Madoo",
-                "img": "images/Madoo.png",
+                "img": "images/MadooAlt.png",
                 "img_mods": "overlay|images/OLBurningMinus.png",
-                "disabled_img": "images/Madoo.png",
+                "disabled_img": "images/MadooAlt.png",
                 "disabled_img_mods": "overlay|images/OLBurningPlus.png"
             },
             {
                 "name": "Madoo Stone",
-                "img": "images/Madoo.png",
+                "img": "images/MadooAlt.png",
                 "img_mods": "overlay|images/OLStoneMinus.png",
-                "disabled_img": "images/Madoo.png",
+                "disabled_img": "images/MadooAlt.png",
                 "disabled_img_mods": "overlay|images/OLStonePlus.png"
             },
             {
                 "name": "Madoo Ice",
-                "img": "images/Madoo.png",
+                "img": "images/MadooAlt.png",
                 "img_mods": "overlay|images/OLIceMinus.png",
-                "disabled_img": "images/Madoo.png",
+                "disabled_img": "images/MadooAlt.png",
                 "disabled_img_mods": "overlay|images/OLIcePlus.png"
             },
             {
                 "name": "Madoo Needle",
-                "img": "images/Madoo.png",
+                "img": "images/MadooAlt.png",
                 "img_mods": "overlay|images/OLNeedleMinus.png",
-                "disabled_img": "images/Madoo.png",
+                "disabled_img": "images/MadooAlt.png",
                 "disabled_img_mods": "overlay|images/OLNeedlePlus.png"
             },
             {
                 "name": "Madoo Clean",
-                "img": "images/Madoo.png",
+                "img": "images/MadooAlt.png",
                 "img_mods": "overlay|images/OLCleanMinus.png",
-                "disabled_img": "images/Madoo.png",
+                "disabled_img": "images/MadooAlt.png",
                 "disabled_img_mods": "overlay|images/OLCleanPlus.png"
             },
             {
                 "name": "Madoo Parasol",
-                "img": "images/Madoo.png",
+                "img": "images/MadooAlt.png",
                 "img_mods": "overlay|images/OLParasolMinus.png",
-                "disabled_img": "images/Madoo.png",
+                "disabled_img": "images/MadooAlt.png",
                 "disabled_img_mods": "overlay|images/OLParasolPlus.png"
             },
             {
                 "name": "Madoo Spark",
-                "img": "images/Madoo.png",
+                "img": "images/MadooAlt.png",
                 "img_mods": "overlay|images/OLSparkMinus.png",
-                "disabled_img": "images/Madoo.png",
+                "disabled_img": "images/MadooAlt.png",
                 "disabled_img_mods": "overlay|images/OLSparkPlus.png"
             },
             {
                 "name": "Madoo Cutter",
-                "img": "images/Madoo.png",
+                "img": "images/MadooAlt.png",
                 "img_mods": "overlay|images/OLCutterMinus.png",
-                "disabled_img": "images/Madoo.png",
+                "disabled_img": "images/MadooAlt.png",
                 "disabled_img_mods": "overlay|images/OLCutterPlus.png"
             }
         ]
